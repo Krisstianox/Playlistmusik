@@ -104,59 +104,59 @@ https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8?PlaylistM3UCL
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://www.m3u.cl/logo/27_Carolina_TV.png", Carolina TV | CL
 https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 ,tvg-logo="https://cagliaripad-wordpress-site.s3.eu-south-1.amazonaws.com/wp-content/uploads/2018/01/20165712/Best-DJ-apps-for-Android-840x473.jpg", Techno Club (181 Fm)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Techno Club (181 Fm)  
 http://icyrelay.181.fm/181-technoclub_128k.mp3
-#EXTINF:-1 ,Techno4ever.FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Techno4ever.FM  
 http://tunein.t4e.dj/main/dsl/mp3
-#EXTINF:-1 ,TechnoBase FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", TechnoBase FM  
 http://mp3.tb-stream.net:80
-#EXTINF:-1 ,Technolovers Radio  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Technolovers Radio  
 http://stream1.ml0.t4e.dj/technolovers_high.mp3
-#EXTINF:-1 ,TranceBase FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", TranceBase FM  
 http://mp3.trb-stream.net:80
-#EXTINF:-1 ,The Mix Radio Extra  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", The Mix Radio Extra  
 http://51.255.127.128:8032/;
-#EXTINF:-1 ,PULSRADIO 80'S  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PULSRADIO 80'S  
 http://icecast.pulsradio.com:80/puls80HD.mp3
-#EXTINF:-1 ,PULSRADIO 90'S  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PULSRADIO 90'S  
 http://icecast.pulsradio.com:80/puls90HD.mp3
-#EXTINF:-1 ,PULSRADIO Hard  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PULSRADIO Hard  
 http://icecast.pulsradio.com/pulshardHD.mp3
-#EXTINF:-1 ,PULSRADIO Hitparty  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PULSRADIO Hitparty  
 http://icecast.pulsradio.com:80/hitpartyHD.mp3
-#EXTINF:-1 ,PULSRADIO Lounge  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PULSRADIO Lounge  
 http://icecast.pulsradio.com/relaxHD.mp3
-#EXTINF:-1 ,PULSRADIO MX Club  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PULSRADIO MX Club  
 http://icecast.pulsradio.com/mxHD.mp3
-#EXTINF:-1 ,PULSRADIO Trance  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PULSRADIO Trance  
 http://icecast.pulsradio.com:80/pulstranceHD.mp3
-#EXTINF:-1 ,Party FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Party FM  
 http://s1.onweb.gr:8824/;stream
-#EXTINF:-1 ,Pro FM Dance  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Pro FM Dance  
 http://edge126.rdsnet.ro:84/profm/dancefm.mp3
-#EXTINF:-1 ,ProDJRadio
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", ProDJRadio
 http://live.prodjradio.net:8042/;stream
-#EXTINF:-1 ,Prodigy  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Prodigy  
 http://212.26.146.50:8000/prodigy.mp3
-#EXTINF:-1 ,Pulzus FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Pulzus FM  
 http://radio2.tirek.hu:8000/sionelo
-#EXTINF:-1 ,1.FM - Absolute TOP 40 Radio  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM - Absolute TOP 40 Radio  
 http://sc3b-sjc.1.fm:7016/;
-#EXTINF:-1 ,1.FM - Absolute Trance  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM - Absolute Trance  
 http://sc-trance.1.fm:8040/;
-#EXTINF:-1 ,1.FM - All Otto Classical Music  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM - All Otto Classical Music  
 http://sc1c-sjc.1.fm:7070/;
-#EXTINF:-1 ,1.FM - Chillout Lounge Radio  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM - Chillout Lounge Radio  
 http://sc1c-sjc.1.fm:7008/;
-#EXTINF:-1 ,1.FM Adore Jazz  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Adore Jazz  
 http://sc-ajazz.1.fm:5084
-#EXTINF:-1 ,1.FM Adult Urban Choice  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Adult Urban Choice  
 http://sc-ua.1.fm:7086
-#EXTINF:-1 ,1.FM Afterbeat Electronica  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Afterbeat Electronica  
 http://sc-electronica.1.fm:8252
-#EXTINF:-1 ,1.FM All Euro 80's  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM All Euro 80's  
 http://sc-80s.1.fm:7032
-#EXTINF:-1 ,1.FM All Times & Urban Gospel  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM All Times & Urban Gospel  
 http://sc-gospel.1.fm:7090
 #EXTINF:-1 ,1.FM Alternative Rock X 
 http://sc-xrock.1.fm:7026
