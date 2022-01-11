@@ -4,6 +4,8 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 https://stmv.panel.mivideo.pro/ekiztv/ekiztv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="7" tvg-name="Toca Hits - Top 100" tvg-logo="https://www.m3u.cl/logo/7_Toca_Hits___Mix_24_7_Top_100.png", Toca Hits - Top 100 | CL
 https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="6" tvg-name="Toca Hits - VdjMix Retro" tvg-logo="https://www.m3u.cl/logo/6_Toca_Hits___Mix_24_7_VdjMix_Retro.png", Toca Hits - VdjMix Retro | CL
+http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="887" tvg-name="Hits 360" tvg-logo="https://www.m3u.cl/logo/887_Hits_360.png", Hits 360 | DO
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://www.m3u.cl/logo/31_Portal_FoxMix.png", Portal FoxMix | CL
@@ -14,6 +16,8 @@ https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?Play
 https://tls-cl.cdnz.cl/adgm-1/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="20" tvg-name="On Radio Kpop" tvg-logo="https://www.m3u.cl/logo/20_On_Radio_Kpop.png", On Radio Kpop | CL
 https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="782" tvg-name="Sexy Kpop TV" tvg-logo="https://www.m3u.cl/logo/782_Sexy_Kpop_TV.jpg", Sexy Kpop TV | BR
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus" tvg-logo="https://www.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="5" tvg-name="Retro Plus 2" tvg-logo="https://www.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", Retro Plus TV Señal 2 | CL
@@ -76,6 +80,18 @@ https://5eff35271151c.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
 http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/25.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="26" tvg-name="RCKTV" tvg-logo="https://www.m3u.cl/logo/26_RCKTV.png", RCKTV | CL
 https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="893" tvg-name="Complejo Dance" tvg-logo="https://www.m3u.cl/logo/893_Complejo_Dance.png", Complejo Dance | AR
+https://mediacp.hostradios.com.ar:19360/complejodance/complejodance.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="904" tvg-name="Latin Zone TV" tvg-logo="https://www.m3u.cl/logo/904_Latin_Zone_TV.png", Latin Zone TV | US
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="911" tvg-name="Tele Clasicos" tvg-logo="https://www.m3u.cl/logo/911_Tele_Clasicos.png", Tele Clasicos | CR
+https://tvdatta.com:3484/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="925" tvg-name="Nubeh TV" tvg-logo="https://www.m3u.cl/logo/925_Nubeh_TV.png", Nubeh TV | VE
+https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="926" tvg-name="Oxigeno Network" tvg-logo="https://www.m3u.cl/logo/926_Oxigeno_Network.png", Oxigeno Network | VE
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="https://www.m3u.cl/logo/924_Panavision.png", Panavision | VE
+https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="14" tvg-name="Urban TV" tvg-logo="https://www.m3u.cl/logo/14_Urban_TV.png", Urban TV | ES
 https://urbanrevolution.es:8443/live/TV/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="432" tvg-name="HiperTV" tvg-logo="https://www.m3u.cl/logo/432_HiperTV.png", HiperTV | CL
@@ -96,6 +112,8 @@ https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?Playlist
 https://videostreaming.cloudserverlatam.com:443/Batalladegallos/Batalladegallos/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="462" tvg-name="Alternativa TV" tvg-logo="https://www.m3u.cl/logo/462_Alternativa_TV.png", Alternativa TV | CL
 https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png", Zapping Music | CL
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 ,Techno Club (181 Fm)  
 http://icyrelay.181.fm/181-technoclub_128k.mp3
 #EXTINF:-1 ,Techno4ever.FM  
@@ -108,29 +126,25 @@ http://stream1.ml0.t4e.dj/technolovers_high.mp3
 http://mp3.trb-stream.net:80
 #EXTINF:-1 ,The Mix Radio Extra  
 http://51.255.127.128:8032/;
-#EXTINF:-1 ,Thnx Radio  
-http://144.76.92.208:7100/;
-#EXTINF:-1 ,Top Radio (Latv)  
-http://195.13.200.164:8000/;
 #EXTINF:-1 ,PULSRADIO 80'S  
 http://icecast.pulsradio.com:80/puls80HD.mp3
 #EXTINF:-1 ,PULSRADIO 90'S  
 http://icecast.pulsradio.com:80/puls90HD.mp3
-#EXTINF:-1 ,PULSRADIO HARD  
+#EXTINF:-1 ,PULSRADIO Hard  
 http://icecast.pulsradio.com/pulshardHD.mp3
-#EXTINF:-1 ,PULSRADIO HIm3u8  
+#EXTINF:-1 ,PULSRADIO Hitparty  
 http://icecast.pulsradio.com:80/hitpartyHD.mp3
-#EXTINF:-1 ,PULSRADIO LOUNGE  
+#EXTINF:-1 ,PULSRADIO Lounge  
 http://icecast.pulsradio.com/relaxHD.mp3
-#EXTINF:-1 ,PULSRADIO MX CLUB  
+#EXTINF:-1 ,PULSRADIO MX Club  
 http://icecast.pulsradio.com/mxHD.mp3
-#EXTINF:-1 ,PULSRADIO TRANCE  
+#EXTINF:-1 ,PULSRADIO Trance  
 http://icecast.pulsradio.com:80/pulstranceHD.mp3
 #EXTINF:-1 ,Party FM  
 http://s1.onweb.gr:8824/;stream
 #EXTINF:-1 ,Pro FM Dance  
 http://edge126.rdsnet.ro:84/profm/dancefm.mp3
-#EXTINF:-1 ,ProDJRadio (Moldova)  
+#EXTINF:-1 ,ProDJRadio
 http://live.prodjradio.net:8042/;stream
 #EXTINF:-1 ,Prodigy  
 http://212.26.146.50:8000/prodigy.mp3
@@ -146,7 +160,7 @@ http://sc1c-sjc.1.fm:7070/;
 http://sc1c-sjc.1.fm:7008/;
 #EXTINF:-1 ,1.FM Adore Jazz  
 http://sc-ajazz.1.fm:5084
-#EXTINF:-1 ,1.FM Adult Urban Him3u8 Choice  
+#EXTINF:-1 ,1.FM Adult Urban Choice  
 http://sc-ua.1.fm:7086
 #EXTINF:-1 ,1.FM Afterbeat Electronica  
 http://sc-electronica.1.fm:8252
@@ -154,7 +168,7 @@ http://sc-electronica.1.fm:8252
 http://sc-80s.1.fm:7032
 #EXTINF:-1 ,1.FM All Times & Urban Gospel  
 http://sc-gospel.1.fm:7090
-#EXTINF:-1 ,1.FM Alternative Rock X Him3u8  
+#EXTINF:-1 ,1.FM Alternative Rock X 
 http://sc-xrock.1.fm:7026
 #EXTINF:-1 ,1.FM America's Best Ballads  
 http://sc-abb.1.fm:8682
@@ -166,7 +180,7 @@ http://sc-b280s.1.fm:6950
 http://sc-sjazz.1.fm:7082
 #EXTINF:-1 ,1.FM Blues Radio  
 http://sc-blues.1.fm:7040
-#EXTINF:-1 ,1.FM Bombay Beam3u8 India  
+#EXTINF:-1 ,1.FM Bombay Beam India  
 http://sc-bb.1.fm:7044
 #EXTINF:-1 ,1.FM Circuit Pride  
 http://sc-tgway.1.fm:5094
@@ -812,9 +826,9 @@ http://radio.vanilla-fm.ru:8000/live
 http://174.36.206.197:8000/;
 #EXTINF:-1 ,WIT FM 2000  
 http://wit2000.ice.infomaniak.ch/wit2000.mp3
-#EXTINF:-1 ,WIT FM 80â€™s  
+#EXTINF:-1 ,WIT FM 80s  
 http://wit80s.ice.infomaniak.ch/wit80s.mp3
-#EXTINF:-1 ,WIT FM 90â€™s  
+#EXTINF:-1 ,WIT FM 90s  
 http://wit90s.ice.infomaniak.ch/wit90s.mp3
 #EXTINF:-1 ,Wargamig FM  
 http://wargaming.fm/4.128
