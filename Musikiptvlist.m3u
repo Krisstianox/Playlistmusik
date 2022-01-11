@@ -14,7 +14,7 @@ https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
 https://tls-cl.cdnz.cl/adgm-1/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="20" tvg-name="On Radio Kpop" tvg-logo="https://www.m3u.cl/logo/20_On_Radio_Kpop.png", On Radio Kpop | CL
 https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="782" tvg-name="Sexy Kpop TV" tvg-logo="https://www.m3u.cl/logo/782_Sexy_Kpop_TV.jpg", Sexy Kpop TV | BR
+#EXTINF:-1 tvg-id="782" tvg-name="Kpop TV" tvg-logo="https://www.m3u.cl/logo/782_Sexy_Kpop_TV.jpg", Kpop TV | BR
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus" tvg-logo="https://www.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
@@ -52,7 +52,7 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?Playl
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="36" tvg-name="Telemusica" tvg-logo="https://www.m3u.cl/logo/36_Telemusica.png", Telemusica | CO
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="996" tvg-name="Latinos Radio" tvg-logo="https://www.m3u.cl/logo/996_Latinos_Radio.png", Latinos Radio * | CL
+#EXTINF:-1 tvg-id="996" tvg-name="Latinos Radio" tvg-logo="https://www.m3u.cl/logo/996_Latinos_Radio.png", Latinos Radio | CL
 https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="889" tvg-name="La Sabrosura TV" tvg-logo="https://www.m3u.cl/logo/889_La_Sabrosura_TV.png", La Sabrosura TV | CL
 https://5eff35271151c.streamlock.net:1936/8012/8012/playlist.m3u8?PlaylistM3UCL
@@ -158,671 +158,669 @@ http://sc-electronica.1.fm:8252
 http://sc-80s.1.fm:7032
 #EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM All Times & Urban Gospel  
 http://sc-gospel.1.fm:7090
-#EXTINF:-1 ,1.FM Alternative Rock X 
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Alternative Rock X 
 http://sc-xrock.1.fm:7026
-#EXTINF:-1 ,1.FM America's Best Ballads  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM America's Best Ballads  
 http://sc-abb.1.fm:8682
-#EXTINF:-1 ,1.FM Back To The 50's & 60's  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Back To The 50's & 60's  
 http://sc-60s.1.fm:7028
-#EXTINF:-1 ,1.FM Back To The 80's (US)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Back To The 80's 
 http://sc-b280s.1.fm:6950
-#EXTINF:-1 ,1.FM Bay Smooth Jazz  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Bay Smooth Jazz  
 http://sc-sjazz.1.fm:7082
-#EXTINF:-1 ,1.FM Blues Radio  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Blues Radio  
 http://sc-blues.1.fm:7040
-#EXTINF:-1 ,1.FM Bombay Beam India  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Bombay Beam India  
 http://sc-bb.1.fm:7044
-#EXTINF:-1 ,1.FM Circuit Pride  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Circuit Pride  
 http://sc-tgway.1.fm:5094
-#EXTINF:-1 ,1.FM Classic Country  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Classic Country  
 http://sc-ccountry.1.fm:7808
-#EXTINF:-1 ,1.FM Classic Rock Replay  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Classic Rock Replay  
 http://sc-classrock.1.fm:8206
-#EXTINF:-1 ,1.FM Club 1  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Club 1  
 http://sc-club.1.fm:7004
-#EXTINF:-1 ,1.FM Country One  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Country One  
 http://sc-countryone.1.fm:7048
-#EXTINF:-1 ,1.FM Dance One  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Dance One  
 http://sc-dance.1.fm:3895
-#EXTINF:-1 ,1.FM Destination: SPA  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Destination: SPA  
 http://sc-spa.1.fm:6002
-#EXTINF:-1 ,1.FM Disco Ball 70's-80's  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Disco Ball 70's-80's  
 http://sc-disco.1.fm:7020
-#EXTINF:-1 ,1.FM Eternal Praise & Worship  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Eternal Praise & Worship  
 http://sc-praise.1.fm:8092
-#EXTINF:-1 ,1.FM Fashion TV  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Fashion TV  
 http://sc-ftv.1.fm:5074
-#EXTINF:-1 ,1.FM High Voltage  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM High Voltage  
 http://sc-hv.1.fm:7058
-#EXTINF:-1 ,1.FM Jamz  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Jamz  
 http://sc-jamz.1.fm:7062
-#EXTINF:-1 ,1.FM Otto's Baroque Music  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Otto's Baroque Music  
 http://sc-baroque.1.fm:7066
-#EXTINF:-1 ,1.FM Otto's Opera House Music  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Otto's Opera House Music  
 http://sc-opera.1.fm:7074
-#EXTINF:-1 ,1.FM Reggae Trade  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 1.FM Reggae Trade  
 http://sc-reggae.1.fm:7078
-#EXTINF:-1 ,101.RU - Adriano Celentano  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 101.RU - Adriano Celentano  
 http://ic2.101.ru:8000/a277
-#EXTINF:-1 ,101.RU - Chillout  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 101.RU - Chillout  
 http://ic2.101.ru:8000/c15_3
-#EXTINF:-1 ,101.RU - Club Dance  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 101.RU - Club Dance  
 http://ic2.101.ru:8000/c4_2
-#EXTINF:-1 ,101.RU - Electro  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 101.RU - Electro  
 http://ic2.101.ru:8000/c6_3
-#EXTINF:-1 ,101.RU - Euro Him3u8  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 101.RU - Euro Him3u8  
 http://ic2.101.ru:8000/c16_13
-#EXTINF:-1 ,101.RU - Hot Traxx  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 101.RU - Hot Traxx  
 http://ic2.101.ru:8000/c4_4
-#EXTINF:-1 ,101.RU - House  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 101.RU - House  
 http://ic2.101.ru:8000/c6_5
-#EXTINF:-1 ,101.RU - Progressive  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 101.RU - Progressive  
 http://ic2.101.ru:8000/c8_4
-#EXTINF:-1 ,101.RU - Russian Dance  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 101.RU - Russian Dance  
 http://ic2.101.ru:8000/c4_6
-#EXTINF:-1 ,101.RU - The Beatles  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 101.RU - The Beatles  
 http://ic2.101.ru:8000/c10_3
-#EXTINF:-1 ,101.RU - Trance  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 101.RU - Trance  
 http://ic2.101.ru:8000/c13_3
-#EXTINF:-1 ,181 FM  The Rock! (Hard Rock)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM  The Rock! (Hard Rock)  
 http://relay.181.fm:8064/;
-#EXTINF:-1 ,181 FM 80's Hairband's  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM 80's Hairband's  
 http://relay.181.fm:8014/;
-#EXTINF:-1 ,181 FM 90s Alternative  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM 90s Alternative  
 http://relay.181.fm:8052/;
-#EXTINF:-1 ,181 FM 90s Country  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM 90s Country  
 http://relay.181.fm:8050/;
-#EXTINF:-1 ,181 FM Awesome 80s  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Awesome 80s  
 http://relay.181.fm:8000/;
-#EXTINF:-1 ,181 FM Beatles  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Beatles  
 http://relay.181.fm:8062/;
-#EXTINF:-1 ,181 FM Chilled Out  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Chilled Out  
 http://relay.181.fm:8700/;
-#EXTINF:-1 ,181 FM Chloe @181.FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Chloe @181.FM  
 http://relay.181.fm:8100/;
-#EXTINF:-1 ,181 FM Classic Buzz  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Classic Buzz  
 http://relay.181.fm:8038/;
-#EXTINF:-1 ,181 FM Classic Guitar  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Classic Guitar  
 http://relay.181.fm:8020/;
-#EXTINF:-1 ,181 FM Classic Him3u8 181  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Classic Hits 181  
 http://relay.181.fm:8132/;
-#EXTINF:-1 ,181 FM Energy 93 (Euro Dance)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Energy 93 (Euro Dance)  
 http://relay.181.fm:8044/;
-#EXTINF:-1 ,181 FM Energy 98  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Energy 98  
 http://relay.181.fm:8800/;
-#EXTINF:-1 ,181 FM Front Porch (Bluegrass)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Front Porch (Bluegrass)  
 http://relay.181.fm:8016/;
-#EXTINF:-1 ,181 FM Good Time Oldies  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Good Time Oldies  
 http://relay.181.fm:8046/;
-#EXTINF:-1 ,181 FM Highway  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Highway  
 http://relay.181.fm:8018/;
-#EXTINF:-1 ,181 FM Jammin 181  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Jammin 181  
 http://relay.181.fm:8042/;
-#EXTINF:-1 ,181 FM Kickin' Country  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Kickin' Country  
 http://relay.181.fm:8130/;
-#EXTINF:-1 ,181 FM Lite 80s  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Lite 80s  
 http://relay.181.fm:8040/;
-#EXTINF:-1 ,181 FM Lite 90s  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Lite 90s  
 http://relay.181.fm:8048/;
-#EXTINF:-1 ,181 FM Mellow Gold  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Mellow Gold  
 http://relay.181.fm:8060/;
-#EXTINF:-1 ,181 FM Old School HipHop/RnB  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Old School HipHop/RnB  
 http://relay.181.fm:8068/;
-#EXTINF:-1 ,181 FM Party 181  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Party 181  
 http://relay.181.fm:8036/;
-#EXTINF:-1 ,181 FM Power  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Power  
 http://relay.181.fm:8128/;
-#EXTINF:-1 ,181 FM Real Country  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Real Country  
 http://relay.181.fm:8034/;
-#EXTINF:-1 ,181 FM Reggae Room3u8  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Reggae Room  
 http://relay.181.fm:8096/;
-#EXTINF:-1 ,181 FM Rock 181  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Rock 181  
 http://relay.181.fm:8008/;
-#EXTINF:-1 ,181 FM Rock 40 (R'n'Roll)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Rock 40 (R'n'Roll)  
 http://relay.181.fm:8028/;
-#EXTINF:-1 ,181 FM Salsa  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Salsa  
 http://relay.181.fm:8098/;
-#EXTINF:-1 ,181 FM Smooth AC  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Smooth AC  
 http://relay.181.fm:8094/;
-#EXTINF:-1 ,181 FM Soul  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Soul  
 http://relay.181.fm:8058/;
-#EXTINF:-1 ,181 FM Star 90s  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Star 90s  
 http://relay.181.fm:8012/;
-#EXTINF:-1 ,181 FM Studio 181 (1st Gen Dance)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Studio 181 (1st Gen Dance)  
 http://relay.181.fm:8072/;
-#EXTINF:-1 ,181 FM Super 70s  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM Super 70s  
 http://relay.181.fm:8066/;
-#EXTINF:-1 ,181 FM The Beat  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM The Beat  
 http://relay.181.fm:8054/;
-#EXTINF:-1 ,181 FM The Box (Urban)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM The Box (Urban)  
 http://relay.181.fm:8024/;
-#EXTINF:-1 ,181 FM The Breeze (Smooth Jazz)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM The Breeze (Smooth Jazz)  
 http://relay.181.fm:8004/;
-#EXTINF:-1 ,181 FM The Buzz  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM The Buzz  
 http://relay.181.fm:8126/;
-#EXTINF:-1 ,181 FM The Eagle (Classic Rock)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM The Eagle (Classic Rock)  
 http://relay.181.fm:8030/;
-#EXTINF:-1 ,181 FM The Heart (Love Songs)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM The Heart (Love Songs)  
 http://relay.181.fm:8006/;
-#EXTINF:-1 ,181 FM The Mix  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM The Mix  
 http://relay.181.fm:8032/;
-#EXTINF:-1 ,181 FM The Office  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM The Office  
 http://relay.181.fm:8002/;
-#EXTINF:-1 ,181 FM The Point  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM The Point  
 http://relay.181.fm:8010/;
-#EXTINF:-1 ,181 FM The Vibe of Vegas  
+#EXTINF:-1 ,181 FM tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", he Vibe of Vegas  
 http://relay.181.fm:8074/;
-#EXTINF:-1 ,181 FM True RnB  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM True RnB  
 http://relay.181.fm:8022/;
-#EXTINF:-1 ,181 FM UK Top 40  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM UK Top 40  
 http://relay.181.fm:8070/;
-#EXTINF:-1 ,181 FM US 181  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181 FM US 181  
 http://relay.181.fm:8056/;
-#EXTINF:-1 ,181.FM - The Buzz (Your Alternative Station!)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 181.FM - The Buzz (Your Alternative Station!)  
 http://icyrelay.181.fm/181-buzz_128k.mp3
-#EXTINF:-1 ,2Capitales Radio  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 2Capitales Radio  
 http://151.80.97.38:8024/stream.mp3
-#EXTINF:-1 ,42 FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", 42 FM  
 http://listen.42fm.ru:8000/stealkill
-#EXTINF:-1 ,A LIST 80S  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", A LIST 80S  
 http://sc3c-sjc.1.fm:6950/;
-#EXTINF:-1 ,AFC Radio  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", AFC Radio  
 http://stream.afc-radio.com/320k
-#EXTINF:-1 ,AFTERBEAT ELECTRONICA  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", AFTERBEAT ELECTRONICA  
 http://sc2b-sjc.1.fm:8252/;
-#EXTINF:-1 ,Afterhours  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Afterhours  
 http://ua.ah.fm:8000/afterhours
-#EXTINF:-1 ,Anison FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Anison FM  
 http://pool.anison.fm:9000/AniSonFM(320)
-#EXTINF:-1 ,Aplus Deep  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Aplus Deep  
 http://shoutcast.aplus.fm:9000/aplus_deep_128
-#EXTINF:-1 ,Army FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Army FM  
 http://212.26.132.129:8000/ArmyFM
-#EXTINF:-1 ,Asian Wave  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Asian Wave  
 http://listen1.myradio24.com:9000/7934
-#EXTINF:-1 ,BIG Radio  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", BIG Radio  
 http://s02.radio-tochka.com:6840/radio
-#EXTINF:-1 ,BTV radio  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", BTV radio  
 http://live.btvradio.bg/btv-radio.mp3
-#EXTINF:-1 ,Bananastreet  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Bananastreet  
 http://radio.bananastreet.ru:8000/radio
-#EXTINF:-1 ,Best FM  
-http://best.streamr.ru/best-128.mp3
-#EXTINF:-1 ,Best FM UA  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Best FM 
 http://radio.bestfm.fm/bestfm_mp3
-#EXTINF:-1 ,Biker-FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Biker-FM  
 http://stream1.radiostyle.ru:8001/biker-fm
-#EXTINF:-1 ,Black Star Radio  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Black Star Radio  
 http://blackstarradio.hostingradio.ru:8024/blackstarradio128.mp3
-#EXTINF:-1 ,Bloger FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Bloger FM  
 http://radio.bloger.fm:8000/blogerfm-256
-#EXTINF:-1 ,Brooklyn FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Brooklyn FM  
 http://stream.bfmradio.us:8070/radio
-#EXTINF:-1 ,COSTA DEL MAR  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Costa del Mar  
 http://sc-costadelmar.1.fm:10152/;
-#EXTINF:-1 ,Capital FM (Moscow)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Capital FM 
 http://icecast.vgtrk.cdnvideo.ru/moscowfmen128
-#EXTINF:-1 ,Capital FM (UK)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Capital FM  
 http://media-ice.musicradio.com/CapitalMP3
-#EXTINF:-1 ,Capital XTRA  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Capital XTRA  
 http://ice-sov.musicradio.com/CapitalXTRANationalMP3
-#EXTINF:-1 ,Chante France  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Chante France  
 http://stream.chantefrance.com/stream_chante_france.mp3
-#EXTINF:-1 ,ClubTime FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", ClubTime FM  
 http://mp3.clt-stream.net:80
-#EXTINF:-1 ,Comedy Radio  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Comedy Radio  
 http://ic2.101.ru:8000/v11_1
-#EXTINF:-1 ,Core Radio  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Core Radio  
 http://194.58.97.117:8000/coreradio
-#EXTINF:-1 ,CoreTime FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", CoreTime FM  
 http://mp3.ct-stream.net:80
-#EXTINF:-1 ,DEEP HOUSE  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Deep House  
 http://sc-deephouseradio.1.fm:10162/;
-#EXTINF:-1 ,DISCOID French Techno  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", French Techno  
 http://discoid.fr:8000/;
-#EXTINF:-1 ,DISCOTEKA 90x  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Discoteka 90x  
 http://listen1.myradio24.com:9000/5967
-#EXTINF:-1 ,DJsRadio  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", DJsRadio  
 http://djsradio.com.ua:8000/listen
-#EXTINF:-1 ,Dankle Welle  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Dankle Welle  
 http://164.132.13.80:5090/stream
-#EXTINF:-1 ,Deep Pulse  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Deep Pulse  
 http://wp6150.ddns.mksat.net:8000/stream.ogg
-#EXTINF:-1 ,ELMAR  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", ELMAR  
 http://striiming.trio.ee/elmar.mp3
-#EXTINF:-1 ,Europa Plus  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Europa Plus  
 http://ep256.hostingradio.ru:8052/europaplus256.mp3
-#EXTINF:-1 ,Europa Plus Light  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Europa Plus Light  
 http://emg02.hostingradio.ru/ep-light128.mp3
-#EXTINF:-1 ,Europa Plus New  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Europa Plus New  
 http://emg02.hostingradio.ru/ep-new128.mp3
-#EXTINF:-1 ,Europa Plus Party  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Europa Plus Party  
 http://epdop.hostingradio.ru:8033/epparty128.mp3
-#EXTINF:-1 ,Europa Plus Residance  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Europa Plus Residance  
 http://emg02.hostingradio.ru/ep-residance128.mp3
-#EXTINF:-1 ,Europa Plus TOP40  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Europa Plus TOP40  
 http://eptop128server.streamr.ru:8033/eptop128
-#EXTINF:-1 ,Europa Plus Acoustic
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Europa Plus Acoustic
 http://epdop.hostingradio.ru:8033/acoustic128.mp3
-#EXTINF:-1 ,Europa Plus EMG
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Europa Plus EMG
 http://hls-01-fresh.emgsound.ru/9/128/playlist.m3u8
-#EXTINF:-1 ,FG DJ Radio (France)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", FG DJ Radio  
 http://radiofg.impek.com:80/fg
-#EXTINF:-1 ,Feel FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Feel FM  
 http://62.80.190.246:8000/Feel
-#EXTINF:-1 ,Fnoobtechno  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Fnoobtechno  
 http://play.fnoobtechno.com:2199/;
-#EXTINF:-1 ,Fresh Rock  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Fresh Rock  
 http://stream.freshrock.net/320.mp3
-#EXTINF:-1 ,GORILLA FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", GORILLA FM  
 http://sc-gorillafm.1.fm:10016/;
-#EXTINF:-1 ,GTI Radio - Trance  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", GTI Radio - Trance  
 http://radio.globaltranceinvasion.com:8000/radiohi
-#EXTINF:-1 ,Gakku FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Gakku FM  
 http://stream.gakku.tv/radio/live
-#EXTINF:-1 ,Gold Radio (UK)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Gold Radio
 http://media-ice.musicradio.com/GoldMP3
-#EXTINF:-1 ,Grind FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Grind FM  
 http://radio.goha.ru:8000/grind.fm
-#EXTINF:-1 ,HR RADIO  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", HR RADIO  
 http://hrradio.hostingradio.ru:8077/hrradio128.mp3
-#EXTINF:-1 ,HardBase FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", HardBase FM  
 http://mp3.hb-stream.net:80
-#EXTINF:-1 ,Heart Radio  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Heart Radio  
 http://media-ice.musicradio.com/HeartLondonMP3
-#EXTINF:-1 ,Hit Mix
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Hit Mix
 http://listen.radiogora.ru:8000/hitmix128
-#EXTINF:-1 ,HitCity  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", HitCity  
 http://89.160.63.63/hitcity392kbps
-#EXTINF:-1 ,#1 For Hip Hop  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", #1 For Hip Hop  
 http://sc.hot108.com:4020/;
-#EXTINF:-1 ,HouseBase FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", HouseBase FM  
 http://mp3.ht-stream.net:80
-#EXTINF:-1 ,I love 2 Dance  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", I love 2 Dance  
 http://stream03.iloveradio.de/iloveradio2.mp3
-#EXTINF:-1 ,I-Hit Radio  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", I-Hit Radio  
 http://78.140.208.20:8800/radio_ihit
-#EXTINF:-1 ,Ibiza Global Radio  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Ibiza Global Radio  
 http://ibgr.001.oye.fm:8024/;
-#EXTINF:-1 ,Ilovetechno.fm - Techno  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Ilovetechno.FM  
 http://ilovetechno.fm:8000/techno
-#EXTINF:-1 ,JAM FM UA  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", JAM FM UA  
 http://cast.radiogroup.com.ua:8000/jamfm
-#EXTINF:-1 ,KILLFISH RADIO  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Killfish Radio  
 http://limona.net:8000/listen3.mp3
-#EXTINF:-1 ,KUFM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", KUFM  
 http://85.21.240.53:8000/kufm
-#EXTINF:-1 ,KUKU  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", KUKU  
 http://striiming.trio.ee/kuku.mp3
-#EXTINF:-1 ,KXPA  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", KXPA  
 http://38.96.148.253:5852/;
-#EXTINF:-1 ,KissFM
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", KissFM
 http://online-kissfm.tavrmedia.ua/KissFM
-#EXTINF:-1 ,Kronehit FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Kronehit FM  
 http://onair.krone.at/kronehit-hd.mp3
-#EXTINF:-1 ,Kurzemes Radio  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Kurzemes Radio  
 http://80.70.23.50:8000/;
-#EXTINF:-1 ,LFM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", LFM  
 http://broadcast.infomaniak.net/lausannefm-high.mp3
-#EXTINF:-1 ,Lada.FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Lada.FM  
 http://195.248.234.146:8000/radio1
-#EXTINF:-1 ,Laut.FM - Rockin_c  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Laut.FM - Rockin   
 http://stream.laut.fm:80/rockin_c
-#EXTINF:-1 ,Lider FM BY  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Lider FM BY  
 http://lider-fm.by:8000/radio
-#EXTINF:-1 ,Like FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Like FM  
 http://ic2.101.ru:8000/v12_1
-#EXTINF:-1 ,Linn Jazz  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Linn Jazz  
 http://89.16.185.174:8000/autodj
-#EXTINF:-1 ,Linn Radio  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Linn Radio  
 http://89.16.185.174:8003/stream
-#EXTINF:-1 ,Lore FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Lore FM  
 http://radio.dline-media.com/lore128
-#EXTINF:-1 ,Lore FM - 90s  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Lore FM - 90s  
 http://radio.dline-media.com/lore90s
-#EXTINF:-1 ,Lounge FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Lounge FM  
 http://cast.loungefm.com.ua/loungefm
-#EXTINF:-1 ,Lounge FM Acoustic  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Lounge FM Acoustic  
 http://cast.loungefm.com.ua/acoustic128
-#EXTINF:-1 ,Lounge FM Chill Out  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Lounge FM Chill Out  
 http://cast.loungefm.com.ua/chillout128
-#EXTINF:-1 ,Lounge FM Terrace  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Lounge FM Terrace  
 http://cast.loungefm.com.ua/terrace128
-#EXTINF:-1 ,MFM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MFM  
 http://radio.105fm.by:8005/gpradio
-#EXTINF:-1 ,MFM UA  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MFM UA  
 http://radio.mfm.ua:8080/online128
-#EXTINF:-1 ,MIX FM 
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MIX FM 
 http://radio.gubernia.com:8000/radio4
-#EXTINF:-1 ,Metropol FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Metropol FM  
 http://mfm1.webradiostreaming.de:8200/;stream
-#EXTINF:-1 ,Mix FM (LATV)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Mix FM 
 http://radio.mixnews.lv/MixFM
-#EXTINF:-1 ,Music Boom  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Music Boom  
 http://musicboom.org:8000/musicboom128
-#EXTINF:-1 ,Muz FM (Mold)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Muz FM  
 http://live.muzfm.md:8000/muzfm
-#EXTINF:-1 ,MyRadio - Absolute Hit  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Absolute Hit  
 http://myradio.ua:8000/absolute-hit128.mp3
-#EXTINF:-1 ,MyRadio - Alternative Rock  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Alternative Rock  
 http://myradio.ua:8000/Alternative_Rock128.mp3
-#EXTINF:-1 ,MyRadio - Balkan Music  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Balkan Music  
 http://myradio.ua:8000/balkanmusic128.mp3
-#EXTINF:-1 ,MyRadio - Best Him3u8 70-80Ñ…  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Best Hits 70-80s  
 http://myradio.ua:8000/Old128.mp3
-#EXTINF:-1 ,MyRadio - Blues  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Blues  
 http://myradio.ua:8000/blues128.mp3
-#EXTINF:-1 ,MyRadio - Breakbeat  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Breakbeat  
 http://myradio.ua:8000/breakbeat128.mp3
-#EXTINF:-1 ,MyRadio - Chillout  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Chillout  
 http://myradio.ua:8000/chillout128.mp3
-#EXTINF:-1 ,MyRadio - Classica  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Classica  
 http://myradio.ua:8000/Classica128.mp3
-#EXTINF:-1 ,MyRadio - Coolschool  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Coolschool  
 http://myradio.ua:8000/coolschool128.mp3
-#EXTINF:-1 ,MyRadio - Country  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Country  
 http://myradio.ua:8000/country128.mp3
-#EXTINF:-1 ,MyRadio - Dance  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Dance  
 http://myradio.ua:8000/dance128.mp3
-#EXTINF:-1 ,MyRadio - Depeche Mode  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Depeche Mode  
 http://myradio.ua:8000/depechemode128.mp3
-#EXTINF:-1 ,MyRadio - Discoteka 80s  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Discoteka 80s  
 http://myradio.ua:8000/Disco128.mp3
-#EXTINF:-1 ,MyRadio - Diskoteka 90s  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Diskoteka 90s  
 http://myradio.ua:8000/disco90128.mp3
-#EXTINF:-1 ,MyRadio - Drum'n'Bass  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Drum'n'Bass  
 http://myradio.ua:8000/DrumAndBass128.mp3
-#EXTINF:-1 ,MyRadio - Dubstep  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Dubstep  
 http://myradio.ua:8000/dubstep128.mp3
-#EXTINF:-1 ,MyRadio - Electro house  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Electro house  
 http://myradio.ua:8000/Electro-House128.mp3
-#EXTINF:-1 ,MyRadio - Eurovision 2010  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Eurovision 2010  
 http://myradio.ua:8000/eurovision2010128.mp3
-#EXTINF:-1 ,MyRadio - France Music  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - France Music  
 http://myradio.ua:8000/france128.mp3
-#EXTINF:-1 ,MyRadio - Fraza Music  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Fraza Music  
 http://myradio.ua:8000/phrases128.mp3
-#EXTINF:-1 ,MyRadio - FunkReggi  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - FunkReggi  
 http://myradio.ua:8000/funkreggi128.mp3
-#EXTINF:-1 ,MyRadio - Gothic  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Gothic  
 http://myradio.ua:8000/Gothic128.mp3
-#EXTINF:-1 ,MyRadio - Hard Rock  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Hard Rock  
 http://myradio.ua:8000/HardRock128.mp3
-#EXTINF:-1 ,MyRadio - Heavy Metal  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Heavy Metal  
 http://myradio.ua:8000/heavymetal128.mp3
-#EXTINF:-1 ,MyRadio - HipHop  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - HipHop  
 http://myradio.ua:8000/hip-hop128.mp3
-#EXTINF:-1 ,MyRadio - HipHop & RNB  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - HipHop & RNB  
 http://myradio.ua:8000/hiphopandrnb128.mp3
-#EXTINF:-1 ,MyRadio - Italian Music  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Italian Music  
 http://myradio.ua:8000/italjanskaja-muzyka128.mp3
-#EXTINF:-1 ,MyRadio - Jazz  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Jazz  
 http://myradio.ua:8000/Jazz128.mp3
-#EXTINF:-1 ,MyRadio - JazzRock  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - JazzRock  
 http://myradio.ua:8000/JazzRockFusion128.mp3
-#EXTINF:-1 ,MyRadio - Kazantip  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Kazantip  
 http://myradio.ua:8000/Kazantip128.mp3
-#EXTINF:-1 ,MyRadio - Latino Music  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Latino Music  
 http://myradio.ua:8000/latino128.mp3
-#EXTINF:-1 ,MyRadio - Lounge  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Lounge  
 http://myradio.ua:8000/LOUNGE128.mp3
-#EXTINF:-1 ,MyRadio - Mainstream Rock  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Mainstream Rock  
 http://myradio.ua:8000/main_stream_rock128.mp3
-#EXTINF:-1 ,MyRadio - New Age  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - New Age  
 http://myradio.ua:8000/new-age128.mp3
-#EXTINF:-1 ,MyRadio - New Jazz  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - New Jazz  
 http://myradio.ua:8000/newjazz128.mp3
-#EXTINF:-1 ,MyRadio - Parallel  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Parallel  
 http://myradio.ua:8000/pophit128.mp3
-#EXTINF:-1 ,MyRadio - Queen  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Queen  
 http://myradio.ua:8000/queen128.mp3
-#EXTINF:-1 ,MyRadio - Retro  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Retro  
 http://myradio.ua:8000/retro128.mp3
-#EXTINF:-1 ,MyRadio - RnB  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - RnB  
 http://myradio.ua:8000/RnB128.mp3
-#EXTINF:-1 ,MyRadio - Rock Music  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Rock Music  
 http://myradio.ua:8000/rockmusic128.mp3
-#EXTINF:-1 ,MyRadio - Rock n Roll  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Rock n Roll  
 http://myradio.ua:8000/rock-n-roll128.mp3
-#EXTINF:-1 ,MyRadio - Russian Him3u8 90s  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Russian Hits 90s  
 http://myradio.ua:8000/russkie-hity-90-h128.mp3
-#EXTINF:-1 ,MyRadio - Russian Lyrics  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Russian Lyrics  
 http://myradio.ua:8000/RusLyrics128.mp3
-#EXTINF:-1 ,MyRadio - Russian Pop  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Russian Pop  
 http://myradio.ua:8000/Rus-pop128.mp3
-#EXTINF:-1 ,MyRadio - TNMK  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - TNMK  
 http://myradio.ua:8000/tnmk128.mp3
-#EXTINF:-1 ,MyRadio - Techno  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Techno  
 http://myradio.ua:8000/techno128.mp3
-#EXTINF:-1 ,MyRadio - Ukraina Him3u8  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Ukraina Him3u8  
 http://myradio.ua:8000/onlyukraine128.mp3
-#EXTINF:-1 ,MyRadio - Ukraina Pop Hit  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Ukraina Pop Hit  
 http://myradio.ua:8000/UkrPophit128.mp3
-#EXTINF:-1 ,MyRadio - Ukraina Rock  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Ukraina Rock  
 http://myradio.ua:8000/PopRock128.mp3
-#EXTINF:-1 ,MyRadio - Ukraina Top 100  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Ukraina Top 100  
 http://myradio.ua:8000/top-100-kiev128.mp3
-#EXTINF:-1 ,MyRadio - Ukraina Wedding  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Ukraina Wedding  
 http://myradio.ua:8000/ukrainian_wedding128.mp3
-#EXTINF:-1 ,MyRadio - World Him3u8  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - World Hits  
 http://myradio.ua:8000/world-hit128.mp3
-#EXTINF:-1 ,MyRadio - Ballads 
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Ballads 
 http://myradio.ua:8000/Ballads192.mp3
-#EXTINF:-1 ,MyRadio - bard19  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Bard19  
 http://myradio.ua:8000/bard192.mp3
-#EXTINF:-1 ,MyRadio - songs192  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Songs  
 http://myradio.ua:8000/kids-songs192.mp3
-#EXTINF:-1 ,MyRadio - fairytales  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", MyRadio - Fairytales  
 http://myradio.ua:8000/fairytales192.mp3
-#EXTINF:-1 ,NFM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", NFM  
 http://93.157.14.109:8000/nfm
-#EXTINF:-1 ,NG Radio Show  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", NG Radio Show  
 http://listen2.myradio24.com:9000/8840
-#EXTINF:-1 ,NRJ  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", NRJ  
 http://ic2.101.ru:8000/v1_1
-#EXTINF:-1 ,NRJ 80s  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", NRJ 80s  
 http://energy80s.ice.infomaniak.ch/energy80s-high.mp3
-#EXTINF:-1 ,NRJ 90s  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", NRJ 90s  
 http://energy90s.ice.infomaniak.ch/energy90s-high.mp3
-#EXTINF:-1 ,NRJ Dance  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", NRJ Dance  
 http://energydance.ice.infomaniak.ch/energydance-high.mp3
-#EXTINF:-1 ,NRJ Hot  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", NRJ Hot  
 http://cast2.nrj.in.ua/nrj_hot
-#EXTINF:-1 ,NRJ Party  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", NRJ Party  
 http://cast2.nrj.in.ua/nrj_party
-#EXTINF:-1 ,NRJ Rock  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", NRJ Rock  
 http://energyrock.ice.infomaniak.ch/energyrock-high.mp3
-#EXTINF:-1 ,NRJ Soundtrack  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", NRJ Soundtrack  
 http://energysoundtrack.ice.infomaniak.ch/energysoundtrack-high.mp3
-#EXTINF:-1 ,NRJ UA  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", NRJ UA  
 http://cast.nrj.in.ua/nrj
-#EXTINF:-1 ,NewTone Fm  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", NewTone Fm  
 http://play.newtone.fm/live_02
-#EXTINF:-1 ,Noise FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Noise FM  
 http://noisefm.ru:8000/play
-#EXTINF:-1 ,ORADIO UA  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", ORADIO UA  
 http://live.oradio.in.ua
-#EXTINF:-1 ,ORF Radio  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", ORF Radio  
 http://air.ofr.fm:8000/;
-#EXTINF:-1 ,OUI FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", OUI FM  
 http://ouifm.ice.infomaniak.ch/ouifm-high.mp3
-#EXTINF:-1 ,Orange Australia  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Orange Australia  
 http://176.31.248.14:12134/;
-#EXTINF:-1 ,PDJ - 186mph  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PDJ - 186mph  
 http://radio.promodj.com:8000/186mph-192
-#EXTINF:-1 ,PDJ - 300kmh  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PDJ - 300kmh  
 http://radio.promodj.com:8000/300kmh-192
-#EXTINF:-1 ,PDJ - Bobina  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PDJ - Bobina  
 http://radio.promodj.com:8000/bobina-192
-#EXTINF:-1 ,PDJ - Brainfck  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PDJ - Brainfck  
 http://radio.promodj.com:8000/brainfck-192
-#EXTINF:-1 ,PDJ - Channel 5  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PDJ - Channel 5  
 http://radio.promodj.com:8000/channel5-192
-#EXTINF:-1 ,PDJ - DJ Groove  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PDJ - DJ Groove  
 http://radio.promodj.com:8000/groove-192
-#EXTINF:-1 ,PDJ - Deep  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PDJ - Deep  
 http://radio.promodj.com:8000/deep-192
-#EXTINF:-1 ,PDJ - Dubstep  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PDJ - Dubstep  
 http://radio.promodj.com:8000/dubstep-192
-#EXTINF:-1 ,PDJ - Full Moon  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PDJ - Full Moon  
 http://radio.promodj.com:8000/fullmoon-192
-#EXTINF:-1 ,PDJ - Garage  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PDJ - Garage  
 http://radio.promodj.com:8000/garagefm-192
-#EXTINF:-1 ,PDJ - Klubb  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PDJ - Klubb  
 http://radio.promodj.com:8000/klubb-192
-#EXTINF:-1 ,PDJ - Mini  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PDJ - Mini  
 http://radio.promodj.com:8000/mini-192
-#EXTINF:-1 ,PDJ - Mixadance  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PDJ - Mixadance  
 http://radio.promodj.com:8000/mixadancefm-192
-#EXTINF:-1 ,PDJ - Nu  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PDJ - Nu  
 http://radio.promodj.com:8000/nu-192
-#EXTINF:-1 ,PDJ - Old-School  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PDJ - Old-School  
 http://radio.promodj.com:8000/oldschool-192
-#EXTINF:-1 ,PDJ - Pop  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PDJ - Pop  
 http://radio.promodj.com:8000/pop-192
-#EXTINF:-1 ,PDJ - Strange  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PDJ - Strange  
 http://radio.promodj.com:8000/strange-192
-#EXTINF:-1 ,PDJ - Too Nu  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PDJ - Too Nu  
 http://radio.promodj.com:8000/toonu-192
-#EXTINF:-1 ,PDJ - Top 100  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PDJ - Top 100  
 http://radio.promodj.com:8000/top100-192
-#EXTINF:-1 ,PDJ - Trap  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PDJ - Trap  
 http://radio.promodj.com/trap-192
-#EXTINF:-1 ,PDJ - Vata  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PDJ - Vata  
 http://radio.promodj.com:8000/vata-192
-#EXTINF:-1 ,PDJ - Yo  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PDJ - Yo  
 http://radio.promodj.com:8000/yo-192
-#EXTINF:-1 ,PULSRADIO 2000  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", PULSRADIO 2000  
 http://icecast.pulsradio.com/puls00HD.mp3
-#EXTINF:-1 ,QBN FM 96.7 LIVE  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", QBN FM 96.7 LIVE  
 http://streaming.qbn967.com.au:8000/;
-#EXTINF:-1 ,RMF FM (PL)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", RMF FM 
 http://31.192.216.5/RMFFM48
-#EXTINF:-1 ,RMI - Beach Club Records  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", RMI - Beach Club Records  
 http://newairhost.com:8046/listen.ram
-#EXTINF:-1 ,RMI - Euro Disco  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", RMI - Euro Disco  
 http://newairhost.com:8034/listen.ram
-#EXTINF:-1 ,RMI - Italo Disco  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", RMI - Italo Disco  
 http://newairhost.com:8010/listen.ram
-#EXTINF:-1 ,RMI - The Mix  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", RMI - The Mix  
 http://newairhost.com:8016/listen.ram
-#EXTINF:-1 ,Raadio Tallinn  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Raadio Tallinn  
 http://icecast.err.ee:80/raadiotallinn.mp3
-#EXTINF:-1 ,Rabinovich FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Rabinovich FM  
 http://212.26.146.50:8000/rabin.mp3
-#EXTINF:-1 ,Radio 1FM (NL)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio 1FM  
 http://strm112.1.fm/atr_mobile_mp3
-#EXTINF:-1 ,Radio Antenn FM (AZ)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio Antenn FM  
 http://85.132.71.10:8000/antenn-mp3
-#EXTINF:-1 ,Radio BBC  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio BBC  
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk
-#EXTINF:-1 ,Radio Baltkom  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio Baltkom  
 http://91.90.255.111:80/baltkom
-#EXTINF:-1 ,Radio Bignoise  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio Bignoise  
 http://radio.bignoise.club:8000/nonstop
-#EXTINF:-1 ,Radio Bob!  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio Bob!  
 http://bob.hoerradar.de/mp3-radiobob
-#EXTINF:-1 ,Radio BumbleBee  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio BumbleBee  
 http://live.bumblebeefm.ru:8000/radio
-#EXTINF:-1 ,Radio Caprice  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio Caprice  
 http://79.111.119.111:8000/posthardcore
-#EXTINF:-1 ,Radio Classic  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio Classic  
 http://jfm1.hostingradio.ru:14536/rcstream.mp3
-#EXTINF:-1 ,Radio EX  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio EX  
 http://s2.radioheart.ru:8043/live
-#EXTINF:-1 ,Radio Focus Sofia  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio Focus Sofia  
 http://online.focus-radio.net:8100/sofia
-#EXTINF:-1 ,Radio Kamw  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio Kamw  
 http://kamwa.ru:8002/kamwa-mp3
-#EXTINF:-1 ,Radio Kletka  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio Kletka  
 http://listen2.myradio24.com:9000/1353
-#EXTINF:-1 ,Radio Max (IT)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio Max  
 http://newairhost.com:8022/;
-#EXTINF:-1 ,Radio Meydan  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio Meydan  
 http://stream.meydan.fm:8800/meydanhigh.mp3
-#EXTINF:-1 ,Radio Moldova Muzical  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio Moldova Muzical  
 http://radiolive.trm.md:8000/RM-muzical-256
-#EXTINF:-1 ,Radio NTI
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio NTI
 http://streaming.radionti.com/nti-hd.mp3
-#EXTINF:-1 ,Radio Nomercy  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio Nomercy  
 http://stream6.radiostyle.ru:8006/nomercy
-#EXTINF:-1 ,Radio OMLET  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio OMLET  
 http://82.209.232.173:8000/live
-#EXTINF:-1 ,Radio Power Him3u8  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio Power Hitz  
 http://powerhitz.powerhitz.com:5000/;
-#EXTINF:-1 ,Radio Premium  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio Premium  
 http://listen.rpfm.ru:9000/premium192
-#EXTINF:-1 ,Radio Radio  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio Radio  
 http://play.radioradio.ru:80
-#EXTINF:-1 ,Radio Remix  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio Remix  
 http://radio-remix.ru:8000/radio
-#EXTINF:-1 ,Radio Rocks  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio Rocks  
 http://icecast.radiorocks.cdnvideo.ru/roks.stream
-#EXTINF:-1 ,Radio Unikid - Non stop  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio Unikid - Non stop  
 http://listen1.myradio24.com:9000/2455
-#EXTINF:-1 ,Radio Van FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio Van FM  
 http://media.radiovan.am:8000/96_stereo
-#EXTINF:-1 ,Radio Z-Rock  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radio Z-Rock  
 http://live.btvradio.bg/z-rock.mp3
-#EXTINF:-1 ,Radiogora - Electro  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radiogora - Electro  
 http://listen.radiogora.ru:8000/electro320
-#EXTINF:-1 ,Rouge FM (FR)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Rouge FM  
 http://rougefm.ice.infomaniak.ch/rougefm-high.mp3
-#EXTINF:-1 ,Royal Radio - Club  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Royal Radio - Club  
 http://193.33.170.218:8000/RoyalClub
-#EXTINF:-1 ,Royal Radio - Love  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Royal Radio - Love  
 http://193.33.170.218:8000/RoyaLove
-#EXTINF:-1 ,SCHRANZ.IN  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", SCHRANZ.IN  
 http://schranz.in:8000/;
-#EXTINF:-1 ,SWH+  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", SWH+  
 http://80.232.162.149:8000/plus96mp3
-#EXTINF:-1 ,San FM Alternative  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", San FM Alternative  
 http://sanfm.ru:8000/alternative
-#EXTINF:-1 ,San FM Drum'n'Bass  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", San FM Drum'n'Bass  
 http://sanfm.ru:8000/drum
-#EXTINF:-1 ,San FM Pop  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", San FM Pop  
 http://sanfm.ru:8000/pop
-#EXTINF:-1 ,San FM Relax  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", San FM Relax  
 http://sanfm.ru:8000/relax
-#EXTINF:-1 ,San FM Trance  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", San FM Trance  
 http://sanfm.ru:8000/trance
-#EXTINF:-1 ,Sintez FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Sintez FM  
 http://82.146.39.89:8000/192.mp3
-#EXTINF:-1 ,Sky Plus DANCE  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Sky Plus Dance  
 http://skyplus.babahhcdn.com/skyplus_dance.mp3
-#EXTINF:-1 ,Smile FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Smile FM  
 http://skycast.su:2007/5307
-#EXTINF:-1 ,Smile FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Smile FM  
 http://94.23.85.189:8650/;stream.mp3
-#EXTINF:-1 ,TANGRA - MEGA ROCK  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Tangra  
 http://stream-03.radiotangra.com:8000/Tangra-high
-#EXTINF:-1 ,TOK FM (PL)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", TOK FM  
 http://gdansk1-1.radio.pionier.net.pl:8000/pl/tuba10-1.mp3
-#EXTINF:-1 ,TWR  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", TWR  
 http://193.107.134.212:8000/live2
-#EXTINF:-1 ,Radioheart
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Radioheart
 http://s3.radioheart.ru:8005/live
-#EXTINF:-1 ,UP FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", UP FM  
 http://listen.teploe.net:8100/upfm
-#EXTINF:-1 ,Ultima.FM 
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Ultima.FM 
 http://sc.ultima.fm:8001/stream/1/stream.mp3
-#EXTINF:-1 ,Undergroove (Grooving Me Radio)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Undergroove (Grooving Me Radio)  
 http://thevoidrad.io:8000/stream
-#EXTINF:-1 ,Underground (Radio Fg)  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Underground (Radio FG)  
 http://radiofg.impek.com/ufg.mp3
-#EXTINF:-1 ,Vanilla FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Vanilla FM  
 http://radio.vanilla-fm.ru:8000/live
-#EXTINF:-1 ,Venice Classic  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Venice Classic  
 http://174.36.206.197:8000/;
-#EXTINF:-1 ,WIT FM 2000  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", WIT FM 2000  
 http://wit2000.ice.infomaniak.ch/wit2000.mp3
-#EXTINF:-1 ,WIT FM 80s  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", WIT FM 80s  
 http://wit80s.ice.infomaniak.ch/wit80s.mp3
-#EXTINF:-1 ,WIT FM 90s  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", WIT FM 90s  
 http://wit90s.ice.infomaniak.ch/wit90s.mp3
-#EXTINF:-1 ,Wargamig FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Wargamig FM  
 http://wargaming.fm/4.128
-#EXTINF:-1 ,YUM FM  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", YUM FM  
 http://yumfm.hostingradio.ru:8020/yumfm128.mp3
-#EXTINF:-1 ,Yoga Radio  
+#EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Yoga Radio  
 http://play.yogaradio.org.ua:8000/YOGAradio
