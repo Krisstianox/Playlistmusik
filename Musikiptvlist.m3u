@@ -4,12 +4,16 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 https://stmv.panel.mivideo.pro/ekiztv/ekiztv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="7" tvg-name="Toca Hits - Top 100" tvg-logo="https://www.m3u.cl/logo/7_Toca_Hits___Mix_24_7_Top_100.png", Toca Hits - Top 100 | CL
 https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="197184" tvg-name="V2BEAT Music TVision" tvg-logo="https://www.vibee.tv/SMS/art/artbig/bg-chart-parallax.jpg", V2BEAT Music TVision
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8?&PlaylistM3UCL
 #EXTINF:-1 tvg-id="887" tvg-name="Hits 360" tvg-logo="https://www.m3u.cl/logo/887_Hits_360.png", Hits 360 | DO
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://www.m3u.cl/logo/31_Portal_FoxMix.png", Portal FoxMix | CL
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="https://www.m3u.cl/logo/924_Panavision.png", Panavision | VE
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="197192" tvg-name="NRG91 Music Live" tvg-logo="https://www.parsatv.com/thumb.php?w=900&h=506&src=https://www.parsatv.com/index_files/channels/91nrgmusic.png", NRG91 Music Live
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="385" tvg-name="On Radio Chile" tvg-logo="https://www.m3u.cl/logo/385_On_Radio_Chile.png", On Radio Chile | CL
 https://tls-cl.cdnz.cl/adgm-1/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="20" tvg-name="On Radio Kpop" tvg-logo="https://www.m3u.cl/logo/20_On_Radio_Kpop.png", On Radio Kpop | CL
@@ -24,6 +28,8 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="358" tvg-name="TecTV" tvg-logo="https://www.m3u.cl/logo/358_TecTV.png", TecTV | CL
 http://190.107.176.55:1935/live/tec-tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png", Zapping Music | CL
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="929" tvg-name="Italianissimo" tvg-logo="https://www.m3u.cl/logo/929_Italianissimo.png", Italianissimo | VE
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="955" tvg-name="MCRT 80s" tvg-logo="https://www.m3u.cl/logo/955_MCRT_80s.png", MCRT 80s | CA
@@ -100,34 +106,18 @@ https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?Playlist
 https://videostreaming.cloudserverlatam.com:443/Batalladegallos/Batalladegallos/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="462" tvg-name="Alternativa TV" tvg-logo="https://www.m3u.cl/logo/462_Alternativa_TV.png", Alternativa TV | CL
 https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png", Zapping Music | CL
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://www.m3u.cl/logo/27_Carolina_TV.png", Carolina TV | CL
 https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="197183" tvg-name="061 XTV Music" tvg-logo="https://www.m3u.cl/logo/3_XTV_Music.png", 061 XTV Music
-https://tls.cdnz.cl:443/xtvmusic-media/xtvmusic-media/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
-#EXTINF:-1 tvg-id="197189" tvg-name="ZAPPING TV MUSIC" tvg-logo="https://lh3.googleusercontent.com/proxy/hXngRZxw3rEPltcYN8zTbQxIJOI10vJ45wyYkzRz8mVBwyQQMaPVmFMElxl7HJr5OX-eUg-v1yxl_WtlRM4zfQh89DzYtb6iKXm-biUxpHthZg", ZAPPING TV MUSIC
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
-#EXTINF:-1 tvg-id="197192" tvg-name="NRG91 Music Live" tvg-logo="https://www.parsatv.com/thumb.php?w=900&h=506&src=https://www.parsatv.com/index_files/channels/91nrgmusic.png", NRG91 Music Live
-http://tv.nrg91.gr:1935/onweb/live/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="197196" tvg-name="Baeble Music" tvg-logo="", Baeble Music
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbaeble/CDN/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="197195" tvg-name="MUSICPlus.hu" tvg-logo="https://i.imgur.com/yKJmkNk.png", MUSICPlus
 https://s02.diazol.hu:10192/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="197193" tvg-name="OCKOEXPRES music.cz" tvg-logo="https://1gr.cz/o/ocko/logo.jpg", OCKOEXPRES Music.cz
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="197194" tvg-name="One 1 Music Television" tvg-logo="", One 1 Music Television
-https://serve-first.folxplay.tv/folx/ch-3/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="197182" tvg-name="TheGRID Network" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/611194abfa2e7f465301bec6/900", TheGRID Network
 https://thegridnetwork-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6111925e1ffcf44f85764c63_thegridnetwork-live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="197180" tvg-name="THT Music" tvg-logo="https://media.vally.tv/image/w_870/bcef87c9ef254e8cb159e1d96e32d242", THT Music
-https://bl.rutube.ru/livestream_no_cors/f5ba23a0149f409c18168231844e0a3b/index.m3u8?s=yshi6fRgOUItdUma0NTDKA&e=1929380933&locale=en&PlaylistM3UCL
 #EXTINF:-1 tvg-id="197181" tvg-name="THT Music" tvg-logo="https://media.vally.tv/image/w_870/bcef87c9ef254e8cb159e1d96e32d242", THT Music
 https://bl.rutube.ru/livestream_no_cors/f5ba23a0149f409c18168231844e0a3b/index.m3u8?s=yshi6fRgOUItdUma0NTDKA&e=1929380933&locale=en&PlaylistM3UCL
 #EXTINF:-1 tvg-id="197179" tvg-name="TRT Musik" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d7357e91961e4078fe2c916d7b501e1.webp", TRT Musik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="197184" tvg-name="V2BEAT Music TVision" tvg-logo="https://www.vibee.tv/wp-content/uploads/2020/09/logo_v2beat_page_small_rev.jpg", V2BEAT Music TVision
-https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8?&PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Techno Club (181 Fm)  
 http://icyrelay.181.fm/181-technoclub_128k.mp3
 #EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Techno4ever.FM  
