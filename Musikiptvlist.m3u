@@ -112,7 +112,7 @@ https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?Play
 https://s02.diazol.hu:10192/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="197193" tvg-name="OCKOEXPRES music.cz" tvg-logo="https://1gr.cz/o/ocko/logo.jpg", OCKOEXPRES Music.cz
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="197182" tvg-name="TheGRID Network" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/611194abfa2e7f465301bec6/900", TheGRID Network
+#EXTINF:-1 tvg-id="197182" tvg-name="TheGRID Network" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/611194abfa2e7f465301bec6/900", The GRID Network
 https://thegridnetwork-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6111925e1ffcf44f85764c63_thegridnetwork-live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="197181" tvg-name="THT Music" tvg-logo="https://media.vally.tv/image/w_870/bcef87c9ef254e8cb159e1d96e32d242", THT Music
 https://bl.rutube.ru/livestream_no_cors/f5ba23a0149f409c18168231844e0a3b/index.m3u8?s=yshi6fRgOUItdUma0NTDKA&e=1929380933&locale=en&PlaylistM3UCL
