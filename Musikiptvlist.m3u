@@ -12,7 +12,7 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?Playl
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="197192" tvg-name="NRG91 Music Live" tvg-logo="https://www.parsatv.com/thumb.php?w=900&h=506&src=https://www.parsatv.com/index_files/channels/91nrgmusic.png", NRG91 Music Live
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="8" tvg-name="V2BEAT Music TVision" tvg-logo="https://cdn-profiles.tunein.com/s301079/images/logog.png?t=155672", V2BEAT Music TVision
+#EXTINF:-1 tvg-id="8" tvg-name="V2BEAT Music TVision" tvg-logo="https://vibee.tv/SMS/art/artbig/bg-chart-parallax.jpg", V2BEAT Music TVision
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8?&PlaylistM3UCL
 #EXTINF:-1 tvg-id="385" tvg-name="On Radio Chile" tvg-logo="https://www.m3u.cl/logo/385_On_Radio_Chile.png", On Radio Chile | CL
 https://tls-cl.cdnz.cl/adgm-1/live/playlist.m3u8?PlaylistM3UCL
