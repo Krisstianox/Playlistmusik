@@ -14,6 +14,8 @@ https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8?PlaylistM3UCL
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="8" tvg-name="V2BEAT Music TVision" tvg-logo="https://play-lh.googleusercontent.com/y9h8niy9K2En8twDhOba1cWEAUZ9r2lbCofZ-73BP793acRW5e5nryiMIAwVwIHnTmw", V2BEAT Music TVision
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8?&PlaylistM3UCL
+#EXTINF:-1 tvg-id="23" tvg-name="m2o TV" tvg-logo="https://www.m3u.cl/logo/23_m2o_TV.png", m2o TV | IT
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="197195" tvg-name="MUSICPlus.hu" tvg-logo="https://i.imgur.com/yKJmkNk.png", MUSICPlus
 https://s02.diazol.hu:10192/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="385" tvg-name="On Radio Chile" tvg-logo="https://www.m3u.cl/logo/385_On_Radio_Chile.png", On Radio Chile | CL
@@ -32,6 +34,8 @@ http://190.107.176.55:1935/live/tec-tv/playlist.m3u8?PlaylistM3UCL
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="929" tvg-name="Italianissimo" tvg-logo="https://www.m3u.cl/logo/929_Italianissimo.png", Italianissimo | VE
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="904" tvg-name="Latin Zone TV" tvg-logo="https://www.m3u.cl/logo/904_Latin_Zone_TV.png", Latin Zone TV | US
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="955" tvg-name="MCRT 80s" tvg-logo="https://www.m3u.cl/logo/955_MCRT_80s.png", MCRT 80s | CA
 https://stmv.negotv.com/80s2021/80s2021/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="954" tvg-name="MCRT Top Hits" tvg-logo="https://www.m3u.cl/logo/954_MCRT_Top_Hits.png", MCRT Top Hits | CA
@@ -42,6 +46,8 @@ https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8?PlaylistM3UCL
 https://stmv.negotv.com/gym2021/gym2021/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="953" tvg-name="MCRT Reggaeton" tvg-logo="https://www.m3u.cl/logo/953_MCRT_Reggaeton.png", MCRT Reggaeton | CA
 https://stmv.negotv.com/regueton2021/regueton2021/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1062" tvg-name="Canal VM Latino" tvg-logo="https://www.m3u.cl/logo/1062_Canal_VM_Latino.png", Canal VM Latino | CR
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="30" tvg-name="Ibiza Global TV" tvg-logo="https://www.m3u.cl/logo/30_Ibiza_Global_TV.png", Ibiza Global TV | ES
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="324" tvg-name="El Galpon 80" tvg-logo="https://www.m3u.cl/logo/324_El_Galpon_80.png", El Galpon 80 | CL
@@ -96,6 +102,8 @@ https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u
 https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1014" tvg-name="Planetatv Music" tvg-logo="https://www.m3u.cl/logo/1014_Planetatv_Music.png", Planetatv Music | CL
 https://5eae379fb77bb.streamlock.net:443/planetatvmusic/planetatvmusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="785" tvg-name="Re7" tvg-logo="https://www.m3u.cl/logo/785_Re7.png", Re7 | CL
+https://vdo.mivideo.pro:3446/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="987" tvg-name="Emocion TV" tvg-logo="https://www.m3u.cl/logo/987_Emocion_TV.png", Emocion TV | CL
 https://v2.tustreaming.cl/emocion/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://www.m3u.cl/logo/13_Ruidos_TV.png", Ruidos TV | CL
