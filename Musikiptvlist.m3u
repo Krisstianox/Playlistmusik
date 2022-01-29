@@ -32,6 +32,8 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://www.m3u.cl/logo/31_Portal_FoxMix.png", Portal FoxMix | CL
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Portalfoxmix.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="https://scontent-scl2-1.xx.fbcdn.net/v/t1.6435-1/p320x320/160932120_130683579057109_2713425430369187510_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=0c64ff&_nc_ohc=MKX6M3tD4bUAX_SHijy&_nc_ht=scontent-scl2-1.xx&edm=AKsJ254EAAAA&oh=00_AT-AEDk5lpfs4DhSxCxQytGQQ3g6Js1aCuybdM5ADWPqlA&oe=621B667F" group-title="Chile",PortalFoxmix | CL
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-id="782" tvg-name="Kpop TV" tvg-logo="https://www.m3u.cl/logo/782_Sexy_Kpop_TV.jpg", Kpop TV | BR
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="8" tvg-name="V2BEAT Music TVision" tvg-logo="https://play-lh.googleusercontent.com/y9h8niy9K2En8twDhOba1cWEAUZ9r2lbCofZ-73BP793acRW5e5nryiMIAwVwIHnTmw", V2BEAT Music TVision
@@ -852,3 +854,92 @@ http://wargaming.fm/4.128
 http://yumfm.hostingradio.ru:8020/yumfm128.mp3
 #EXTINF:-1 tvg-logo="https://ets2mods.lt/wp-content/uploads/2017/04/radio-stream-ets-ats-all_1.jpg", Yoga Radio  
 http://play.yogaradio.org.ua:8000/YOGAradio
+#EXTINF:-1 tvg-id="LatidoMusic.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://i.imgur.com/p3n3CZP.jpg" group-title="ENTRETENIMIENTO",Latido Music (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumovidaprimolatido/CDN/master.m3u8
+#EXTINF:-1 tvg-id="Qmusic.nl" tvg-country="NL" tvg-language="Dutch" tvg-logo="https://i.imgur.com/P8cVMle.jpg" group-title="Netherlands",Qmusic (720p)
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1 tvg-id="SaltoBrasaMusic.nl" tvg-country="NL" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640" group-title="Netherlands",Salto Brasa Music (1080p)
+https://salto-streams.nl/hls/sotv1_high.m3u8
+#EXTINF:-1 tvg-id="SilenceTV.nl" tvg-country="NL" tvg-language="English" tvg-logo="https://i.imgur.com/826gz7r.jpg" group-title="Netherlands",Silence TV (720p)
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:-1 tvg-id="XITEBE.nl" tvg-country="NL" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="Netherlands",XITE (BE) (720p)
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+#EXTINF:-1 tvg-id="CityMusicTV.be" tvg-country="BE" tvg-language="Dutch" tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="Belgium",City Music TV (720p)
+https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+#EXTINF:-1 tvg-id="NRG91.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="Greece",NRG 91 (720p)
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 tvg-id="NRGTV.gr" tvg-country="GR" tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="Greece",NRG TV (720p)
+https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MUSICPlus.hu" tvg-country="HU" tvg-logo="https://i.imgur.com/yKJmkNk.png" group-title="Hungary",MUSIC + (720p)
+https://s02.diazol.hu:10192/hls/stream.m3u8
+#EXTINF:-1 tvg-id="StreetMusic4U.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/DVfEmq7.png" group-title="International",Street Music 4U (720p)
+https://59d39900ebfb8.streamlock.net/streetmusic/streetmusic/playlist.m3u8
+#EXTINF:-1 tvg-id="KurdMaxMusic.iq" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://kurdmaxcms.com/asset/image/footer_logo/music_2.png" group-title="Iraq",KurdMax Music (1080p)
+https://5aa8c7549bfa9.streamlock.net/music/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioNumberOne.it" tvg-country="IT" tvg-logo="https://i.imgur.com/8cpuaG5.png" group-title="Italy",Radio Number One (720p)
+https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="GigantFM.nl" tvg-country="NL" tvg-logo="https://i.imgur.com/7AC8etU.png" group-title="Netherlands",Gigant FM (720p)
+https://streams.uitzending.tv/gigantfm/gigantfm/chunklist_w666692457.m3u8
+
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-country="CA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Canada",Stingray Classic Rock (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/master.m3u8
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-country="CA" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/dcf6dea4-94f1-49c2-8387-82569dde9f45-small3x1_stirr_1219_epg_singrayclassicrock_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="Canada",Stingray Classic Rock (1080p)
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-country="CA" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Canada",Stingray Classic Rock (1080p)
+https://xumo-redbox.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-country="CA" tvg-logo="https://od.lk/s/MF8yMzA5ODU0MDBf/Stingray-Classica_450x450.png" group-title="Canada",Stingray Classica (1080p)
+https://stirr.ott-channels.stingray.com/iota-classica/index.m3u8
+#EXTINF:-1 tvg-id="StingrayDjazz.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Canada",Stingray Djazz (1080p)
+https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
+#EXTINF:-1 tvg-id="Stingraydjazz.ca" tvg-country="CA" tvg-logo="https://od.lk/s/MF8yMzA5ODU0MDFf/Stingray-DJazz_400x400.png" group-title="Canada",Stingray djazz (1080p)
+https://stirr.ott-channels.stingray.com/djazz/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-country="CA" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/90d2dbf6-a533-4cc1-b1a3-6196c40efb16-small3x1_STIRR_LOGO_0220_StingrayEverything80s_1920x1080_EPG.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="Canada",Stingray Everything 80s (1080p)
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-country="CA" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/4b83571f-2374-4e84-a27b-e772b0c94c51-small3x1_stirr_1219_epg_stingrayflashback70s_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="Canada",Stingray Flashback 70s (1080p)
+https://stirr.ott-channels.stingray.com/115/master.m3u8
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" tvg-country="CA" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Canada",Stingray Greatest Hits (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" tvg-country="CA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Canada",Stingray Greatest Hits (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraygreatesthits/CDN/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-country="CA" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Canada",Stingray Hit List (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayHitList.ca" tvg-country="CA" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d35ab388-cc91-4070-876d-b5c48d989a60-small3x1_stirr_1219_epg_singrayhitlist_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="Canada",Stingray Hit List (1080p)
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHitlist.ca" tvg-country="CA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Canada",Stingray Hitlist (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhitlist/CDN/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHolidayHits.ca" tvg-country="CA" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/518a9541-fade-45ec-9d64-5b0a65806270-small3x1_stirr_1219_epg_stingraygreatesthits_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Canada",Stingray Holiday Hits (1080p)
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-country="CA" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Canada",Stingray Hot Country (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-country="CA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Canada",Stingray Hot Country (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhotcountry/CDN/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-country="CA" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d2dac750-5e2b-4107-a037-6467fca68e93-small3x1_stirr_1219_epg_stingrayhotcountry_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="Canada",Stingray Hot Country (1080p)
+https://stirr.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca" tvg-country="CA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Canada",Stingray Karaoke (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/master.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="Canada",Stingray Karaoke (1080p)
+https://stingray-karaoke-2-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraokeAustralia.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="Canada",Stingray Karaoke (Australia) (1080p)
+https://samsung-au.ott-channels.stingray.com/karaoke/master.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraokeSweden.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="Canada",Stingray Karaoke (Sweden) (1080p)
+https://stingray-karaoke-3-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayKarokeNetherland.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="Canada",Stingray Karoke (Netherland) (1080p)
+https://stingray-karaoke-4-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-country="CA" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Canada",Stingray Naturescape (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-country="CA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Canada",Stingray Naturescape (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraynaturescape/CDN/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/lu8bFhZ.jpg" group-title="Canada",Stingray Naturescape (1080p)
+https://stingray-naturescape-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/lu8bFhZ.jpg" group-title="Canada",Stingray Naturescape (1080p)
+https://samsung-mx.ott-channels.stingray.com/naturescape/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.ca" tvg-country="CA" tvg-logo="https://od.lk/s/MF8yMzA5ODU0MDNf/Stingray-Naturescape_450x450.png" group-title="Canada",Stingray Naturescape (1080p)
+https://stirr.ott-channels.stingray.com/naturescape/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescapeAustralia.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/lu8bFhZ.jpg" group-title="Canada",Stingray Naturescape (Australia) (1080p)
+https://samsung-au.ott-channels.stingray.com/naturescape/master.m3u8
+#EXTINF:-1 tvg-id="StingrayQello.ca" tvg-country="CA" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/StingrayQello_190x190.png?raw=true" group-title="Canada",Stingray Qello (1080p)
+https://samsung.ott-channels.stingray.com/qello/master.m3u8
+#EXTINF:-1 tvg-id="StingrayQelloConcerts.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/IVUgJPY.png" group-title="Canada",Stingray Qello Concerts (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-vizioqelloconcerts/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayQelloConcerts.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Canada",Stingray Qello Concerts (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayqello/CDN/master.m3u8
