@@ -18,6 +18,14 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8?PlaylistM3UC
 https://s02.diazol.hu:10192/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="7" tvg-name="Toca Hits - Top 100" tvg-logo="https://www.m3u.cl/logo/7_Toca_Hits___Mix_24_7_Top_100.png", Toca Hits - Top 100 | CL
 https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="VH1 Italy" tvg-name="VH1 Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/VH1_2020.png", VH1  |  IT
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 tvg-id="VH1 Classic US" tvg-name="VH1 Classic" tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png", VH1 Classics
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="VH1 Hip Hop Family US" tvg-name="VH1 Hip Hop Family" tvg-logo="http://images.pluto.tv/channels/5d71561df6f2e6d0b6493bf5/colorLogoPNG.png" group-title="USA", VH1 Hip Hop Family  |  USA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d71561df6f2e6d0b6493bf5/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d71561df6f2e6d0b6493bf5&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=284&terminate=false&userId=
+#EXTINF:-1 tvg-id="VH1 ILove Reality US" tvg-name="VH1 ILove Reality" tvg-logo="http://images.pluto.tv/channels/5d7154fa8326b6ce4ec31f2e/colorLogoPNG.png" group-title="USA", VH1 I Love Reality  |  USA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7154fa8326b6ce4ec31f2e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=282&terminate=false&userId=
 #EXTINF:-1 tvg-id="197196" tvg-name="TeleMusica" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F1acccd5c6700ad0481c6b1d7132263d291904a405401ff49b5bef0c6679a3dd1.jpg", TeleMusica
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="887" tvg-name="Hits 360" tvg-logo="https://www.m3u.cl/logo/887_Hits_360.png", Hits 360 | DO
