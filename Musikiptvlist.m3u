@@ -18,7 +18,7 @@ http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8?PlaylistM3UC
 https://s02.diazol.hu:10192/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="7" tvg-name="Toca Hits - Top 100" tvg-logo="https://www.m3u.cl/logo/7_Toca_Hits___Mix_24_7_Top_100.png", Toca Hits - Top 100 | CL
 https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="VH1 Italy" tvg-name="VH1 Italy" tvg-logo="https://i45.servimg.com/u/f45/12/85/36/14/126.jpg", VH1 | IT
+#EXTINF:-1 tvg-id="VH1 Italy" tvg-name="VH1 Italy" tvg-logo="https://w7.pngwing.com/pngs/887/646/png-transparent-vh1-logo-tv-mtv-classic-television-viacom-media-networks-greek-dance-purple-television-angle.png", VH1 | IT
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-id="198854" tvg-name="Pluto TV VH1 Classics" tvg-logo="https://i45.servimg.com/u/f45/12/85/36/14/126.jpg", VH1 Classics
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel&PlaylistM3UCL
