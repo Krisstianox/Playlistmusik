@@ -18,7 +18,7 @@ https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 tvg-id="MtunesPlus" tvg-logo="https://i.imgur.com/Rt7k6E3.png", Mtunes+
 http://14.199.164.20:4001/play/a0p2/index.m3u8
-#EXTINF:-1 tvg-id="H!T Music Channel" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Hungary", H!T Music Channel | HU
+#EXTINF:-1 tvg-id="H!T Music Channel" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://static.wikia.nocookie.net/fic5689/images/3/34/H%21T_Music_Channel_%282010-2013%29.png" group-title="Hungary", H!T Music Channel | HU
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="Maxima FM" tvg-logo="https://www.m3u.cl/logo/33_Maxima_FM.png", Maxima FM | CL
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
