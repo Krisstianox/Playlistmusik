@@ -6,8 +6,8 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="https://www.m3u.cl/logo/924_Panavision.png", Panavision | VE
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
-#EXTINF:-1 tvg-id="197198" tvg-name="Music Top HD" tvg-logo="https://i.imgur.com/oAdVLb8.png", Music Top HD | AR
-http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="782" tvg-name="Kpop TV" tvg-logo="https://www.m3u.cl/logo/782_Sexy_Kpop_TV.jpg", Kpop TV | BR
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Toca Hits" tvg-logo="https://www.m3u.cl/logo/7_Toca_Hits___Mix_24_7_Top_100.png", Toca Hits | CL
 https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8
 #EXTINF:-1 tvg-id="NRG91 Music" tvg-name="NRG91 Music Live" tvg-logo="https://www.parsatv.com/index_files/channels/91nrgmusic.png", NRG91 Music Live
@@ -18,14 +18,12 @@ https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 tvg-id="MtunesPlus" tvg-logo="https://i.imgur.com/Rt7k6E3.png", Mtunes+
 http://14.199.164.20:4001/play/a0p2/index.m3u8
-#EXTINF:-1 tvg-id="H!T Music Channel" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://static.wikia.nocookie.net/fic5689/images/3/34/H%21T_Music_Channel_%282010-2013%29.png" group-title="Hungary", H!T Music Channel | HU
-http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="Maxima FM" tvg-logo="https://www.m3u.cl/logo/33_Maxima_FM.png", Maxima FM | CL
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
+#EXTINF:-1 tvg-id="197198" tvg-name="Music Top HD" tvg-logo="https://i.imgur.com/oAdVLb8.png", Music Top HD | AR
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="197195" tvg-name="MUSICPlus.hu" tvg-logo="https://i.imgur.com/yKJmkNk.png", MUSIC+
 https://s02.diazol.hu:10192/hls/stream.m3u8
-#EXTINF:-1 tvg-id="782" tvg-name="Kpop TV" tvg-logo="https://www.m3u.cl/logo/782_Sexy_Kpop_TV.jpg", Kpop TV | BR
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurodance 90 HD" tvg-name="Eurodance 90 HD" tvg-logo="https://cdns-images.dzcdn.net/images/cover/f49f27c44583f365faed017d87b89b91/500x500.jpg", Eurodance 90 HD
 https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 tvg-id="VEVO2K" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="USA", VEVO 2K | USA
@@ -162,6 +160,8 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_lq.m3u8
 https://thegridnetwork-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6111925e1ffcf44f85764c63_thegridnetwork-live/playlist.m3u8
 #EXTINF:-1 tvg-id="197181" tvg-name="THT Music" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2016/09/TNT_small_thumb211.jpg", THT Music |  RU
 https://bl.rutube.ru/livestream_no_cors/f5ba23a0149f409c18168231844e0a3b/index.m3u8?s=yshi6fRgOUItdUma0NTDKA&e=1929380933&locale=en&PlaylistM3UCL
+#EXTINF:-1 tvg-id="H!T Music Channel" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://static.wikia.nocookie.net/fic5689/images/3/34/H%21T_Music_Channel_%282010-2013%29.png", H!T Music Channel | HU
+http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 tvg-id="197179" tvg-name="TRT Musik" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d7357e91961e4078fe2c916d7b501e1.webp", TRT Musik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="KurdMaxMusic.iq" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://kurdmaxcms.com/asset/image/footer_logo/music_2.png", KurdMax Music | IQ
