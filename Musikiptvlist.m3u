@@ -20,8 +20,6 @@ https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:-1 tvg-id="XITEBE.nl" tvg-country="NL" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="Netherlands",XITE | BE
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
-#EXTINF:-1 tvg-id="MtunesPlus" tvg-logo="https://i.imgur.com/Rt7k6E3.png", Mtunes+
-http://14.199.164.20:4001/play/a0p2/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="Maxima FM" tvg-logo="https://www.m3u.cl/logo/33_Maxima_FM.png", Maxima FM | CL
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:-1 tvg-id="197198" tvg-name="Music Top HD" tvg-logo="https://i.imgur.com/oAdVLb8.png", Music Top HD | AR
@@ -162,6 +160,8 @@ https://thegridnetwork-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186
 https://bl.rutube.ru/livestream_no_cors/f5ba23a0149f409c18168231844e0a3b/index.m3u8?s=yshi6fRgOUItdUma0NTDKA&e=1929380933&locale=en&PlaylistM3UCL
 #EXTINF:-1 tvg-id="H!T Music Channel" tvg-country="HU" tvg-language="Hungarian" tvg-logo="https://static.wikia.nocookie.net/fic5689/images/3/34/H%21T_Music_Channel_%282010-2013%29.png", H!T Music Channel | HU
 http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1 tvg-id="MtunesPlus" tvg-logo="https://i.imgur.com/Rt7k6E3.png", Mtunes+
+http://14.199.164.20:4001/play/a0p2/index.m3u8
 #EXTINF:-1 tvg-id="197179" tvg-name="TRT Musik" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d7357e91961e4078fe2c916d7b501e1.webp", TRT Musik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="KurdMaxMusic.iq" tvg-country="IQ" tvg-language="Kurdish" tvg-logo="https://kurdmaxcms.com/asset/image/footer_logo/music_2.png", KurdMax Music | IQ
