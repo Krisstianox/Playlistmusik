@@ -10,6 +10,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f6
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 #EXTINF:-1 tvg-id="198856" tvg-name="VEVO Latino" tvg-logo="https://tubularinsights.com/wp-content/uploads/2013/09/vevo.png", VEVO Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:-1 tvg-id="MTV Block Party US" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="USA", MTV Block Party | USA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 tvg-id="MTV Spankin New US" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="USA", MTV Spankin' New | USA
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:-1 tvg-id="NRG91 Music" tvg-name="NRG91 Music Live" tvg-logo="https://www.parsatv.com/index_files/channels/91nrgmusic.png", NRG91 Music Live
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-id="XITEBE.nl" tvg-country="NL" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="Netherlands",XITE | BE
