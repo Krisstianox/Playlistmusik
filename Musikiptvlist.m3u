@@ -4,6 +4,8 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="5" tvg-name="Retro Plus 2" tvg-logo="https://www.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", Retro Plus TV Señal 2 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://www.m3u.cl/logo/31_Portal_FoxMix.png", PortalFoxMix | CL
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Toca Hits" tvg-logo="https://www.m3u.cl/logo/7_Toca_Hits___Mix_24_7_Top_100.png", Toca Hits | CL
 https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="Toca Hits VdjMix Retro" tvg-logo="https://www.m3u.cl/logo/6_Toca_Hits___Mix_24_7_VdjMix_Retro.png", Toca Hits Retro | CL
@@ -46,18 +48,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f6
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 #EXTINF:-1 tvg-id="198856" tvg-name="VEVO Latino" tvg-logo="https://tubularinsights.com/wp-content/uploads/2013/09/vevo.png", VEVO Latino
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF:-1 tvg-id="EDM Mainstage" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg", EDM Mainstage
-https://eu-nl-012.worldcast.tv/dancetelevisionseven/2/dancetelevisionseven.m3u8
-#EXTINF:-1 tvg-id="Deep House District" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg", Deep House District
-https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-#EXTINF:-1 tvg-id="Best of Dance TV" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg",Best of Dance TV
-https://eu-nl-012.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-id="Algorhythm | Tech House" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg", Algorhythm | Tech House
-https://eu-nl-012.worldcast.tv/dancetelevisionfour/2/dancetelevisionfour.m3u8
-#EXTINF:-1 tvg-id="Techno Warehouse" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg", Techno Warehouse
-https://eu-nl-012.worldcast.tv/dancetelevisionthree/2/dancetelevisionthree.m3u8
-#EXTINF:-1 tvg-id="The deeper side of Tech and House" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg", The deeper side of Tech and House
-https://eu-nl-012.worldcast.tv/dancetelevisionsix/2/dancetelevisionsix.m3u8
 #EXTINF:-1 tvg-id="Loop Electronica West" tvg-logo="https://static.12core.net/d8d1f2a3ea03ed135a7873ff7c0ce161.jpeg", Loop Electronica West | US
 https://0bdf3efc906045538c63468aa2f86a96.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_littlstar/master.m3u8
 #EXTINF:-1 tvg-id="Loop 90s West" tvg-logo="https://i.imgur.com/K8YV2bR.png", Loop 90s West | US
@@ -70,22 +60,32 @@ https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/
 https://ea86081fb9454be9b3b50037f9117024.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_littlstar/master.m3u8
 #EXTINF:-1 tvg-id="Loop Synapse West" tvg-logo="https://static.12core.net/e21e0005af106ee7bebea46bb17b2e93.jpeg", Loop Synapse West | US
 https://2807722353b745629456a555257b16bc.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_littlstar/master.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="Loop Trending West live" tvg-logo="https://static.12core.net/0c789462f6e85086d20ccc04da342567.jpeg", "Loop Trending West live
+https://3d26c463850c48c788975a9aad86c508.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_littlstar/master.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="Loop That's Hot West live" tvg-logo="https://static.12core.net/5e4e6c6989bea49734411e5e708f6089.jpeg", Loop That's Hot West live
+https://dccd6216f2c9471399015e69d64818cd.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_littlstar/master.m3u8
+#EXTINF:-1 tvg-id="EDM Mainstage" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg", EDM Mainstage
+https://eu-nl-012.worldcast.tv/dancetelevisionseven/2/dancetelevisionseven.m3u8
+#EXTINF:-1 tvg-id="Deep House District" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg", Deep House District
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-id="Best of Dance TV" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg",Best of Dance TV
+https://eu-nl-012.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-id="Algorhythm | Tech House" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg", Algorhythm | Tech House
+https://eu-nl-012.worldcast.tv/dancetelevisionfour/2/dancetelevisionfour.m3u8
+#EXTINF:-1 tvg-id="Techno Warehouse" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg", Techno Warehouse
+https://eu-nl-012.worldcast.tv/dancetelevisionthree/2/dancetelevisionthree.m3u8
+#EXTINF:-1 tvg-id="The deeper side of Tech and House" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg", The deeper side of Tech and House
+https://eu-nl-012.worldcast.tv/dancetelevisionsix/2/dancetelevisionsix.m3u8
 #EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/600ad8f86e1eba00081da3ce/solidLogoPNG.png" group-title="France",Clubbing TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad8f86e1eba00081da3ce/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8ae1b0-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=97358d7c-5219-43db-bcda-c5057f0bc369
 #EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/600ad8f86e1eba00081da3ce/solidLogoPNG.png" group-title="France",Clubbing TV
 https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="80's Best Euro-Disco, Synth-Pop & Dance Hits" tvg-logo="https://oaxaka.net/wp-content/uploads/YouTube-Music-ofrecera-tres-listas-de-reproduccion-personalizadas-de-este.png", 80's Best Euro-Disco, Synth-Pop & Dance Hits
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1643723360/ei/AOb4YeS4Acj4wgTX5rjwCA/ip/200.73.19.2/id/0nuO8heJtcg.2/source/yt_live_broadcast/requiressl/yes/tx/24027684/txs/24027683%2C24027684%2C24027685%2C24027686%2C24067850/hfr/1/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALr8fG_Zfz8ss9KgW92krprZ9bYtoqmQ2XrFsmRwS-vmAiAyshQsY2T3upSkpIxmIjbiwYn0JSW1ZqPFTH0wjXwE0g%3D%3D/file/index.m3u
-#EXTINF:-1 tvg-id="Back to  the 90's" tvg-logo="https://oaxaka.net/wp-content/uploads/YouTube-Music-ofrecera-tres-listas-de-reproduccion-personalizadas-de-este.png", Back to  the 90's
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1643724254/ei/fun4YaGGMOOOobIPk4OzsAk/ip/200.73.19.2/id/wS0G5iT4tAA.1/source/yt_live_broadcast/requiressl/yes/tx/24027684/txs/24027683%2C24027684%2C24027685%2C24027686%2C24067850/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/cl/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgBRJ5cgslCpIfeqT0o1yzpERyhwTqO9REh03m6DLpPWcCIDV0BiLX94_Qjv8VUkiipYRiDKBBrEmwuXSio2nV1d4S/file/index.m3u8
 #EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-name="Everything 80s" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/90d2dbf6-a533-4cc1-b1a3-6196c40efb16-small3x1_STIRR_LOGO_0220_StingrayEverything80s_1920x1080_EPG.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="Canada", Stingray Everything 80s | CA
 https://stirr.ott-channels.stingray.com/128/master.m3u8
 #EXTINF:-1 tvg-id="VH1 Italy" tvg-name="VH1 Italy" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_10/large.vh1-logo.png.1f12e4b6bd6f398a111960f6fbdfc57c.png", VH1 | IT
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-id="VH1 Classic US" tvg-name="VH1 Classic" tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png", VH1 Classics
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://www.m3u.cl/logo/31_Portal_FoxMix.png", PortalFoxMix | CL
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png", Recuerdos Retro Radio TV | CL
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8
 #EXTINF:-1 tvg-id="197196" tvg-name="TeleMusica" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F1acccd5c6700ad0481c6b1d7132263d291904a405401ff49b5bef0c6679a3dd1.jpg", TeleMusica
