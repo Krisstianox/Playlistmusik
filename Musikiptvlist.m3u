@@ -28,6 +28,8 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 https://s02.diazol.hu:10192/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Eurodance 90 HD" tvg-name="Eurodance 90 HD" tvg-logo="https://cdns-images.dzcdn.net/images/cover/f49f27c44583f365faed017d87b89b91/500x500.jpg", Eurodance 90 HD
 https://eurodance90.catcast.tv/content/36987/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="Muzzik-Live" tvg-logo="https://play-lh.googleusercontent.com/ZphnDI3RhxXDxGs_CrhRezTw1s6t9-WP1Ooy9OxsUQZT9bjIKOzHEvpSOv6yHV9tWRE", Muzzik-Live
+http://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV Spankin New US" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="USA", MTV Spankin' New | USA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:-1 tvg-id="XITEBE.nl" tvg-country="NL" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="Netherlands",XITE | BE
@@ -964,5 +966,3 @@ https://samsung-au.ott-channels.stingray.com/naturescape/master.m3u8
 https://samsung.ott-channels.stingray.com/qello/master.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="JasminTV" tvg-logo="https://i.ytimg.com/vi/sHSOjJ8jiAg/maxresdefault_live.jpg", JasminTV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="Muzzik-Live" tvg-logo="https://i.imgur.com/ZHJVvOj.png", Muzzik-Live
-http://muzzik-live.morescreens.com/mts-6/playlist.m3u8
