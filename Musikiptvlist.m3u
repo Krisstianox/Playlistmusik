@@ -962,3 +962,7 @@ https://stirr.ott-channels.stingray.com/naturescape/master.m3u8
 https://samsung-au.ott-channels.stingray.com/naturescape/master.m3u8
 #EXTINF:-1 tvg-id="StingrayQello.ca" tvg-country="CA" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/StingrayQello_190x190.png?raw=true" group-title="Canada",Stingray Qello (1080p)
 https://samsung.ott-channels.stingray.com/qello/master.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="JasminTV" tvg-logo="https://i.ytimg.com/vi/sHSOjJ8jiAg/maxresdefault_live.jpg", JasminTV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="Muzzik-Live" tvg-logo="https://i.imgur.com/ZHJVvOj.png", Muzzik-Live
+http://muzzik-live.morescreens.com/mts-6/playlist.m3u8
