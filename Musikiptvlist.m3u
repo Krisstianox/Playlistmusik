@@ -1,5 +1,3 @@
-#EXTINF:-1 tvg-id="1" tvg-name="Penthouse" tvg-logo="", Penthouse
-http://s846397078.mialojamiento.es/7402/mp.php/http://50.7.164.28:8081/16/index.m3u8?wmsAuthSign=1644012698p89i18i561i28S73060c7170160523e7ba070cdd28089a
 #EXTINF:-1 tvg-id="1" tvg-name="Rewind TV" tvg-logo="https://www.m3u.cl/logo/1_Rewind_TV.png", Rewind TV | CL
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus" tvg-logo="https://www.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV | CL
@@ -966,5 +964,3 @@ https://stirr.ott-channels.stingray.com/naturescape/master.m3u8
 https://samsung-au.ott-channels.stingray.com/naturescape/master.m3u8
 #EXTINF:-1 tvg-id="StingrayQello.ca" tvg-country="CA" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/StingrayQello_190x190.png?raw=true" group-title="Canada",Stingray Qello (1080p)
 https://samsung.ott-channels.stingray.com/qello/master.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="JasminTV" tvg-logo="https://i.ytimg.com/vi/sHSOjJ8jiAg/maxresdefault_live.jpg", JasminTV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
