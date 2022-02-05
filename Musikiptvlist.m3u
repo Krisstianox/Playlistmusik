@@ -1,9 +1,5 @@
 #EXTINF:-1 tvg-id="1" tvg-name="Rewind TV" tvg-logo="https://www.m3u.cl/logo/1_Rewind_TV.png", Rewind TV | CL
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="PS1" tvg-name="Popstar TV" tvg-logo="http://www.video.popstaronline.com/wp-content/uploads/2021/09/logo-new.png", Popstar! TV
-https://linear-10.frequency.stream/10/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-id="EP2" tvg-name="Europa+" tvg-logo="https://www.europamas.com/assets/images/logo.png", Europa+ TV
-https://live-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/chunklist_b5128000.m3u8?md5=5KE7MVI-o7NS0iCvQk3Xqg&e=1644623552&hls_proxy_host=pub1.rtmp.s01.l.europaplus&zoid=sharin
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus" tvg-logo="https://www.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="5" tvg-name="Retro Plus 2" tvg-logo="https://www.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", Retro Plus TV Señal 2 | CL
@@ -98,6 +94,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8
 #EXTINF:-1 tvg-id="197196" tvg-name="TeleMusica" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F1acccd5c6700ad0481c6b1d7132263d291904a405401ff49b5bef0c6679a3dd1.jpg", TeleMusica
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
+#EXTINF:-1 tvg-id="PS1" tvg-name="Popstar TV" tvg-logo="https://play-lh.googleusercontent.com/LSuquCI_Nxdx6fwSlA5KKOIY992dz8OPFsqMUyHE2Cihe0pYLvXFLAIY1qdFknM2x0E", Popstar! TV
+https://linear-10.frequency.stream/10/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-id="EP2" tvg-name="Europa+" tvg-logo="https://www.europamas.com/assets/images/logo.png", Europa+ TV
+https://live-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/chunklist_b5128000.m3u8?md5=5KE7MVI-o7NS0iCvQk3Xqg&e=1644623552&hls_proxy_host=pub1.rtmp.s01.l.europaplus&zoid=sharin
+#EXTINF:-1 tvg-id="box" tvg-name="Box+" tvg-logo="https://scontent-scl2-1.xx.fbcdn.net/v/t1.6435-9/157023317_107989154685353_4601591086642859254_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=JjLLk7aFjHsAX8ew7ro&_nc_ht=scontent-scl2-1.xx&oh=00_AT9qCNUMmLnpntPZdneoCdYUIcx-hp-WG2OLVjVewuQvPw&oe=6224CF6E",Box+
+https://csm-e-ces1uswxaws204j8-5q6flnfpvv31.tls1.yospace.com/csm/live/131232624/4.m3u8;jsessionid=499877D32D24B8015B5D89FB64221254.csm-e-ces1uswxaws204j8-5q6flnfpvv31.tls1.yospace.com?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/&externalId=boxhits-alldev
 #EXTINF:-1 tvg-id="467" tvg-name="TV Pop" tvg-logo="https://www.m3u.cl/logo/467_TV_Pop.jpg", TV Pop | CL
 https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF:-1 tvg-id="385" tvg-name="On Radio Chile" tvg-logo="https://www.m3u.cl/logo/385_On_Radio_Chile.png", On Radio Chile | CL
