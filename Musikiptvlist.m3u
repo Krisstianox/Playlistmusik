@@ -1,12 +1,3 @@
-#EXTINF:-1, tvg-logo="https://hackstore.site/wp-content/uploads/2021/11/cropped-hackstore.png", House of Gucci | Un legado por el que vale la pena matar
-https://delivery-node-tharaa.voe-network.net/hls/6oarm6xtte23cszcrzc45obs5nzsotb7tzerlnkhloopm22qyeii3p77doea/index-v1-a1.m3u8
-#EXTINF:-1, tvg-logo="https://hackstore.site/wp-content/uploads/2021/11/cropped-hackstore.png", Hotel Transylvania: Transformania
-https://delivery-node-dhakwan.voe-network.net/hls/6oarnqvtwe23cszcrz6mrpd75mdry57qtrrywvxykgxi5uifuonoet6y3dsa/index-v1-a1.m3u8
-#EXTINF:-1, tvg-logo="https://hackstore.site/wp-content/uploads/2021/11/cropped-hackstore.png", Sing 2 | Ven y Canta
-https://delivery-node-amari.voe-network.net/hls/6oarm7diny3lcszcrzgmv2zh5iy4l73dpmpywtfpewgm47s6wxyf7klytjla/index-v1-a1.m3u8
-#EXTINF:-1, tvg-logo="https://hackstore.site/wp-content/uploads/2021/11/cropped-hackstore.png", Nightmare Alley | El Callejon de las Almas Perdidas
-https://delivery-node-atyaf.voe-network.net/hls/6oarnjxsty23cszcr2wm5mzdv6ndh3nhfzvxtm4okcq4socifmyifiti6i7a/index-v1-a1.m3u8
-
 #EXTINF:-1 tvg-id="1" tvg-name="Rewind TV" tvg-logo="https://www.m3u.cl/logo/1_Rewind_TV.png", Rewind TV  | CL
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus" tvg-logo="https://www.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV | CL
