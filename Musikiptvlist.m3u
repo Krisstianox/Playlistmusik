@@ -26,39 +26,39 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 #EXTINF:-1 tvg-id="197195" tvg-name="MUSIC Plus" tvg-logo="https://i.imgur.com/yKJmkNk.png", MUSIC+ | HU
 https://s02.diazol.hu:10192/hls/stream.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="Muzzik-Live" tvg-logo="http://imgfz.com/i/QZFUVyb.png", Muzzik Live | SRB
+#EXTINF:-1 tvg-id="12" tvg-name="Muzzik-Live" tvg-logo="https://imgfz.com/i/QtnTpGr.png", Muzzik TV | SRB
 http://muzzik-live.morescreens.com/mts-6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" tvg-name="Muzzik Rock&Roll Serbia", Muzzik Rock&Roll Serbia
+#EXTINF:-1 tvg-logo="https://imgfz.com/i/QtnTpGr.png" tvg-name="Muzzik Rock&Roll Serbia", Muzzik Rock & Roll | Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" tvg-name="Muzzik Cafe&Club Serbia", Muzzik Cafe&Club Serbia
+#EXTINF:-1 tvg-logo="https://imgfz.com/i/QtnTpGr.png" tvg-name="Muzzik Cafe&Club Serbia", Muzzik Cafe&Club | Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" tvg-name="Muzzik Worldwide Serbia", Muzzik Worldwide Serbia
+#EXTINF:-1 tvg-logo="https://imgfz.com/i/QtnTpGr.png" tvg-name="Muzzik Worldwide Serbia", Muzzik Worldwide | Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" tvg-name="Muzzik Rivijera Serbia", Muzzik Rivijera Serbia
+#EXTINF:-1 tvg-logo="https://imgfz.com/i/QtnTpGr.png" tvg-name="Muzzik Rivijera Serbia", Muzzik Rivijera | Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/jekamuzziktv/picture?width=200&height=200" tvg-name="Muzzik Jeka Serbia", Muzzik Jeka Serbia
+#EXTINF:-1 tvg-logo="https://imgfz.com/i/QtnTpGr.png" tvg-name="Muzzik Jeka Serbia", Muzzik Jeka | Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" tvg-name="Muzzik ZZ TV Serbia", Muzzik ZZ TV Serbia
+#EXTINF:-1 tvg-logo="https://imgfz.com/i/QtnTpGr.png" tvg-name="Muzzik ZZ TV Serbia", Muzzik ZZ TV | Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" tvg-name="Muzzik Sense Serbia", Muzzik Sense Serbia
+#EXTINF:-1 tvg-logo="https://imgfz.com/i/QtnTpGr.png" tvg-name="Muzzik Sense Serbia", Muzzik Sense | Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" tvg-name="Muzzik Glazzba Serbia", Muzzik Glazzba Serbia
+#EXTINF:-1 tvg-logo=https://imgfz.com/i/QtnTpGr.png" tvg-name="Muzzik Glazzba Serbia", Muzzik Glazzba | Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" tvg-name="Muzzik T REX Serbia", Muzzik T REX Serbia
+#EXTINF:-1 tvg-logo="https://imgfz.com/i/QtnTpGr.png" tvg-name="Muzzik T REX Serbia", Muzzik T REX | Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" tvg-name="Muzzik ZZ 4000 Serbia", Muzzik ZZ 4000 Serbia
+#EXTINF:-1 tvg-logo="https://imgfz.com/i/QtnTpGr.png" tvg-name="Muzzik ZZ 4000 Serbia", Muzzik ZZ 4000 | Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-a6/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.muzzik.tv/wp-content/uploads/2019/05/muzzik-logo.png" tvg-name="Muzzik OKK Serbia",Muzzik OKK Serbia
+https://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgfz.com/i/QtnTpGr.png" tvg-name="Muzzik OKK Serbia", Muzzik OKK | Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 #EXTINF:-1 tvg-id="Kronehit.at" tvg-country="AT" tvg-language="German" tvg-logo="https://i1.sndcdn.com/artworks-000122130329-brysnm-t500x500.jpg" group-title="Music", Kronehit | AT
