@@ -58,9 +58,31 @@ https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgfz.com/i/QtnTpGr.png" tvg-name="Muzzik OKK Serbia", Muzzik OKK | Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1 tvg-id="Kronehit.at" tvg-country="AT" tvg-language="German" tvg-logo="https://i1.sndcdn.com/artworks-000122130329-brysnm-t500x500.jpg" group-title="Music", Kronehit | AT
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/OckoExpres/picture?width=200&height=200" tvg-name="Ocko Expres", Ocko Expres | Chequia CZ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/tvocko/picture?width=200&height=200" tvg-name="Ocko CZ", Ocko | Chequia CZ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/ockostar/picture?width=200&height=200" tvg-name="Ocko Star", Ocko Star | Chequia CZ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/onemusicchannel/picture?width=200&height=200" tvg-name="First Music Channel Bielorrusia",First Music Channel Bielorrusia
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/4FUN.TV/picture?width=200&height=200" tvg-name="4FUN TV Polonia", 4FUN TV | Polonia PL
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/825104000341012480/ip1tcW4n_200x200.jpg"   tvg-name="Spirit TV USA", Spirit TV | USA
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/cadena.elitegranada/picture?width=200&height=200" tvg-name="Cadena Elite España", Cadena Elite España
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/DittyTV/picture?width=200&height=200"   tvg-name="Ditty TV USA",Ditty TV USA EN
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
+#EXTINF:-1 tvg-id="Kronehit.at" tvg-country="AT" tvg-logo="https://i1.sndcdn.com/artworks-000122130329-brysnm-t500x500.jpg", Kronehit | Austria AT
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV Spankin New US" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="USA", MTV Spankin' New | USA
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/30atv/picture?width=200&height=200"   tvg-name="30A Music USA",30A Music USA EN
+https://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/sonusfmpage/picture?width=200&height=200"   tvg-name="Sonus FM Alemania",Sonus FM Alemania
+http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/RadioU/picture?width=200&height=200" tvg-name="RadioU TV USA",RadioU TV USA EN
+https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
+#EXTINF:-1 tvg-id="MTV Spankin New US" tvg-logo="http://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png", MTV Spankin' New | USA
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF:-1 tvg-id="XITEBE.nl" tvg-country="NL" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="Netherlands",XITE | BE
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
@@ -68,6 +90,8 @@ https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:-1 tvg-id="197198" tvg-name="Music Top HD" tvg-logo="https://i.imgur.com/oAdVLb8.png", Music Top HD | AR
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/melodychanneltv/picture?width=200&height=200" tvg-name="Melody Channel Colombia", Melody Channel Colombia
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
 #EXTINF:-1 tvg-id="VEVO2K" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="USA", VEVO 2K | USA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="VEVO 90s" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="USA", VEVO 90's | USA 
