@@ -55,9 +55,6 @@ https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgfz.com/i/QtnTpGr.png" tvg-name="Muzzik T REX Serbia", Muzzik T REX | Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgfz.com/i/QtnTpGr.png" tvg-name="Muzzik ZZ 4000 Serbia", Muzzik ZZ 4000 | Serbia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://imgfz.com/i/QtnTpGr.png" tvg-name="Muzzik OKK Serbia", Muzzik OKK | Serbia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
