@@ -11,10 +11,8 @@ https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-id="NRG91 Music" tvg-name="NRG91 Music Live" tvg-logo="https://www.parsatv.com/index_files/channels/91nrgmusic.png", NRG91 Music Live | GR
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 tvg-id="8" tvg-name="V2BEAT Music TVision" tvg-logo="https://scontent-scl2-1.xx.fbcdn.net/v/t1.6435-9/102380595_10164014473645434_7533470127563830392_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeG68DuUeV9nFwzm6xJgErrpKfV1H1ofyfkp9XUfWh_J-RjR73TNzOEjVK8k89oKlgI&_nc_ohc=PE1Bw6_kPWIAX83BQzc&_nc_ht=scontent-scl2-1.xx&oh=00_AT945DrGncCGIODjcYBEEKQw-yhbz8k8gEpKlonRtw2Ohg&oe=621B521B", V2BEAT Music TVision | GB
+#EXTINF:-1 tvg-id="8" tvg-name="V2BEAT Music TVision" tvg-logo="http://imgfz.com/i/2zR80ie.png", V2BEAT Music TVision | GB
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1 tvg-id="Eurodance 90 HD" tvg-name="Eurodance 90 HD" tvg-logo="https://imgfz.com/i/mTloJY3.png", Eurodance 90 HD | RU
-https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 tvg-id="CompanyTV.it" tvg-country="IT" tvg-logo="http://imgfz.com/i/V0qyUdI.png" group-title="Music", Company TV | IT
 http://wma10.fluidstream.net/CompanyTV/mp4:livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="1HD Music Television" tvg-logo="http://imgfz.com/i/3bl62Xt.png", 1HD Music Television | RU
