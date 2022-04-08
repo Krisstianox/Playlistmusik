@@ -7,7 +7,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Toca Hits" tvg-logo="https://www.m3u.cl/logo/7_Toca_Hits___Mix_24_7_Top_100.png", Toca Hits | CL
 https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="https://www.m3u.cl/logo/31_Portal_FoxMix.png", PortalFoxMix | CL
+#EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="http://imgfz.com/i/o1tlU2F.png", PortalFoxMix | CL
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-id="NRG91 Music" tvg-name="NRG91 Music Live" tvg-logo="https://www.parsatv.com/index_files/channels/91nrgmusic.png", NRG91 Music Live | GR
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
