@@ -3,7 +3,7 @@
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus" tvg-logo="http://imgfz.com/i/SHX95ZR.png", Retro Plus TV | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus 2" tvg-logo="http://imgfz.com/i/SHX95ZR.png", Retro Plus TV Señal 2 | CL
+#EXTINF:-1 tvg-id="5" tvg-name="Retro Plus 2" tvg-logo="http://imgfz.com/i/w1KOjh0.png", Retro Plus TV Señal 2 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Toca Hits" tvg-logo="https://www.m3u.cl/logo/7_Toca_Hits___Mix_24_7_Top_100.png", Toca Hits | CL
 https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8
