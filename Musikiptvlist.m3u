@@ -5,7 +5,7 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="Retro Plus 2" tvg-logo="http://imgfz.com/i/w1KOjh0.png", Retro Plus TV Señal 2 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="Toca Hits" tvg-logo="https://www.m3u.cl/logo/7_Toca_Hits___Mix_24_7_Top_100.png", Toca Hits | CL
+#EXTINF:-1 tvg-id="7" tvg-name="Toca Hits" tvg-logo="https://www.m3u.cl/logo/7_Toca_Hits___Mix_24_7_Top_100.png", Toca Hits - Urbano | CL
 https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="http://imgfz.com/i/o1tlU2F.png", PortalFoxMix | CL
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
@@ -19,7 +19,7 @@ http://wma10.fluidstream.net/CompanyTV/mp4:livestream/playlist.m3u8
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Eurodance 90 HD" tvg-name="Eurodance 90 HD" tvg-logo="http://imgfz.com/i/Z1UEVBw.png", Eurodance 90 HD | RU
 https://eurodance90.catcast.tv/content/36987/index.m3u8
-#EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="https://www.m3u.cl/logo/924_Panavision.png", Panavision | VE
+#EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="http://imgfz.com/i/xS61Jtf.png", Panavision | VE
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
 #EXTINF:-1 tvg-id="782" tvg-name="Kpop TV" tvg-logo="http://imgfz.com/i/2Xz5oYp.png", KpopTV | BR
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
@@ -159,8 +159,6 @@ https://v4.tustreaming.cl/poptv/index.m3u8
 https://tls-cl.cdnz.cl/adgm-1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="On Radio Kpop" tvg-logo="https://www.m3u.cl/logo/20_On_Radio_Kpop.png", On Radio Kpop | CL
 https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="23" tvg-name="m2o TV" tvg-logo="https://www.m3u.cl/logo/23_m2o_TV.png", M2o TV | IT
-http://tvpremiumhd.club/lista-gratuita/181825/on/bi.php?id=2IILfjB
 #EXTINF:-1 tvg-id="929" tvg-name="Italianissimo" tvg-logo="https://www.m3u.cl/logo/929_Italianissimo.png", Italianissimo | VE
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
 #EXTINF:-1 tvg-id="904" tvg-name="Latin Zone TV" tvg-logo="https://www.m3u.cl/logo/904_Latin_Zone_TV.png", Latin Zone TV | US
@@ -207,8 +205,6 @@ https://5eae379fb77bb.streamlock.net/cappissima/cappissima/playlist.m3u8
 https://5eff35271151c.streamlock.net:1936/8076/8076/playlist.m3u8
 #EXTINF:-1 tvg-id="887" tvg-name="Hits 360" tvg-logo="https://www.m3u.cl/logo/887_Hits_360.png", Hits 360 | DO
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="468" tvg-name="Toca Hits - Puro Rock" tvg-logo="https://www.m3u.cl/logo/468_Toca_Hits___Mix_24_7_Puro_Rock.png", Toca Hits - Puro Rock | CL
-http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/25.m3u8
 #EXTINF:-1 tvg-id="1005" tvg-name="Onda Radio TV" tvg-logo="https://www.m3u.cl/logo/1005_Onda_Radio_TV.png", Onda Radio TV | CL
 https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
 #EXTINF:-1 tvg-id="785" tvg-name="Re7" tvg-logo="https://www.m3u.cl/logo/785_Re7.png", Re7 | CL
