@@ -189,8 +189,6 @@ https://vdohd.cl:1936/8030/8030/playlist.m3u8
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="112" tvg-name="Amordiscos TV" tvg-logo="https://www.m3u.cl/logo/112_Amordiscos_TV.png", Amordiscos TV | CO
 https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:amordiscos_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="38" tvg-name="Best Cable Music" tvg-logo="https://www.m3u.cl/logo/38_Best_Cable_Music.jpg", Best Cable Music | PE
-https://tv.siete.us:19360/bestcablemusic/bestcablemusic/index.m3u8L
 #EXTINF:-1 tvg-id="35" tvg-name="TOP Latino TV" tvg-logo="https://www.m3u.cl/logo/35_TOP_Latino_TV.png", TOP Latino TV | PE
 https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="1020" tvg-name="Caracola TV" tvg-logo="https://www.m3u.cl/logo/1020_Caracola_TV.png", Caracola TV | CL
@@ -209,7 +207,7 @@ https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
 https://vdo.mivideo.pro:3446/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://www.m3u.cl/logo/13_Ruidos_TV.png", Ruidos TV | CL
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
-#EXTINF:-1 tvg-id="462" tvg-name="Alternativa TV" tvg-logo="https://www.m3u.cl/logo/462_Alternativa_TV.png", Alternativa TV | CL
+#EXTINF:-1 tvg-id="462" tvg-name="Alternativa TV" tvg-logo="http://imgfz.com/i/wJmMrAT.png", Alternativa TV | CL
 https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://www.m3u.cl/logo/27_Carolina_TV.png", Carolina TV | CL
 https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
