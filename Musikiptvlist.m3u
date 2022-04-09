@@ -155,9 +155,9 @@ https://linear-10.frequency.stream/10/hls/master/playlist_1920x1080.m3u8
 https://live-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/chunklist_b5128000.m3u8?md5=5KE7MVI-o7NS0iCvQk3Xqg&e=1644623552&hls_proxy_host=pub1.rtmp.s01.l.europaplus&zoid=sharin
 #EXTINF:-1 tvg-id="467" tvg-name="TV Pop" tvg-logo="https://www.m3u.cl/logo/467_TV_Pop.jpg", TV Pop | CL
 https://v4.tustreaming.cl/poptv/index.m3u8
-#EXTINF:-1 tvg-id="385" tvg-name="On Radio Chile" tvg-logo="https://www.m3u.cl/logo/385_On_Radio_Chile.png", On Radio Chile | CL
+#EXTINF:-1 tvg-id="385" tvg-name="On Radio Chile" tvg-logo="http://imgfz.com/i/2UtihlP.png", On Radio Chile | CL
 https://tls-cl.cdnz.cl/adgm-1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="On Radio Kpop" tvg-logo="https://www.m3u.cl/logo/20_On_Radio_Kpop.png", On Radio Kpop | CL
+#EXTINF:-1 tvg-id="20" tvg-name="On Radio Kpop" tvg-logo="http://imgfz.com/i/qDe62RG.png", On Radio Kpop | CL
 https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="929" tvg-name="Italianissimo" tvg-logo="https://www.m3u.cl/logo/929_Italianissimo.png", Italianissimo | VE
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
@@ -183,12 +183,10 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="The Retro Channel" tvg-logo="https://www.m3u.cl/logo/17_The_Retro_Channel.png", The Retro Channel | PR
 https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="769" tvg-name="Radioteca WebStereo" tvg-logo="https://www.m3u.cl/logo/769_Radioteca_WebStereo.webp", Radioteca WebStereo | CL
+#EXTINF:-1 tvg-id="769" tvg-name="Radioteca WebStereo" tvg-logo="http://imgfz.com/i/NVTjifJ.png", Radioteca WebStereo | CL
 https://vdohd.cl:1936/8030/8030/playlist.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="Retro Music Television" tvg-logo="https://www.m3u.cl/logo/21_Retro_Music_Television.png", Retro Music Television | CZ
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="889" tvg-name="La Sabrosura TV" tvg-logo="https://www.m3u.cl/logo/889_La_Sabrosura_TV.png", La Sabrosura TV | CL
-https://5eff35271151c.streamlock.net:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="112" tvg-name="Amordiscos TV" tvg-logo="https://www.m3u.cl/logo/112_Amordiscos_TV.png", Amordiscos TV | CO
 https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:amordiscos_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="38" tvg-name="Best Cable Music" tvg-logo="https://www.m3u.cl/logo/38_Best_Cable_Music.jpg", Best Cable Music | PE
