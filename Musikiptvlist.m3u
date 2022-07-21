@@ -6,17 +6,17 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 #EXTINF:-1 tvg-id="5" tvg-name="Retro Plus 2" tvg-logo="http://imgfz.com/i/w1KOjh0.png", Retro Plus TV Señal 2 | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-id="CompanyTV.it" tvg-country="IT" tvg-logo="http://imgfz.com/i/V0qyUdI.png" group-title="Music", Company TV | Italy
-https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/playlist.m3u8
+https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/chunklist_w853220240_b2128000_slita.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="V2BEAT Music TVision" tvg-logo="http://imgfz.com/i/2zR80ie.png", V2BEAT Music TVision | Italy
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 tvg-id="Eurodance 90 HD" tvg-name="Eurodance 90 HD" tvg-logo="http://imgfz.com/i/Z1UEVBw.png", Eurodance 90 HD | Russia
 https://eurodance90.catcast.tv/content/36987/index.m3u8
-#EXTINF:-1 tvg-id="NRG91 Music" tvg-name="NRG91 Music Live" tvg-logo="http://imgfz.com/i/bDSrO6Q.png", NRG91 Music Live | Greece
+#EXTINF:-1 tvg-id="NRG91 Music" tvg-name="NRG91 Music Live" tvg-logo="http://imgfz.com/i/bDSrO6Q.png", NRG91 Music Live | Grecia
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-id="1166" tvg-name="Dance FM" tvg-logo="http://imgfz.com/i/kjazAoK.png", Dance FM
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="ViwiX Tv Music" tvg-logo="https://play-lh.googleusercontent.com/jPpTd17mVkIVHw521vGLHS5BccIw9UYqJF5e2ZdDG2qIwRRBh4Gy6Xr-rXtdMA15G7w", ViwiX Tv Music
-https://v2.tustreaming.cl/utvsc/live1/index.m3u8
+https://cloudvideo.servers10.com:8081/8210/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Toca Hits" tvg-logo="http://imgfz.com/i/eKuGBty.png", Toca Hits | Urbano | CL
 https://mix247.ml:444/TocaHits/Top100Mix24-7/playlist.m3u8
 #EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="http://imgfz.com/i/xS61Jtf.png", Panavision | VE
