@@ -7,8 +7,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-id="CompanyTV.it" tvg-country="IT" tvg-logo="http://imgfz.com/i/V0qyUdI.png" group-title="Music", Company TV | Italy
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/chunklist_w853220240_b2128000_slita.m3u8
-#EXTINF:-1 tvg-id="CompanyTV.it" tvg-country="IT" tvg-logo="http://imgfz.com/i/V0qyUdI.png" group-title="Music", Company TV HD | IT
-https://list.iptvcat.com/my_list/s/1f3d6297d4b6ae7bfdd38866ad7caf56.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="V2BEAT Music TVision" tvg-logo="http://imgfz.com/i/2zR80ie.png", V2BEAT Music TVision | Italy
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 tvg-id="Eurodance 90 HD" tvg-name="Eurodance 90 HD" tvg-logo="http://imgfz.com/i/Z1UEVBw.png", Eurodance 90 HD | Russia
@@ -23,8 +21,6 @@ https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 https://cloudvideo.servers10.com:8081/8210/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Radioactiva" tvg-logo="http://imgfz.com/i/cgUmvVx.png", RadioActiva | CL
 https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/radioactivatv/livestream2/chunks.m3u8?dpssid=b222105330463b694989a4e7&sid=ba5t1l1xb248782848763b694989a4e6
-#EXTINF:-1 tvg-id="7" tvg-name="Reload Radio Music Power" tvg-logo="http://imgfz.com/i/cgUmvVx.png", Reload Radio Music Power TV
-https://list.iptvcat.com/my_list/s/136e9abe2b8a5e70a27ed6bdaf87bdc4.m3u8
 #EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="http://imgfz.com/i/xS61Jtf.png", Panavision | VE
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="Maxima FM" tvg-logo="http://imgfz.com/i/iIo6UWO.png", Maxima FM | CL
