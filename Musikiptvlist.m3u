@@ -18,7 +18,7 @@ http://195.9.195.3:8080/hls/198097.m3u8
 https://hls.goodgame.ru/hls/180509.m3u8
 #EXTINF:-1 tvg-name="Retro 80 HD" tvg-logo="https://i.ibb.co/VpRD97X/retro-80.jpg", Retro 80 HD | Russia
 https://eurodance90.catcast.tv/content/38204/index.m3u8
-#EXTINF:-1 tvg-name="Dance Hits 80" tvg-logo="https://app.playlistbox.com/icon/82YEm9Vw51D0poVWAQxNr4jQPOGd7KJb.png", Dance Hits 80 | Russia
+#EXTINF:-1 tvg-name="Dance Hits 80" tvg-logo="https://i.ibb.co/m5zKw3b/DH-image.png", Dance Hits 80 | Russia
 http://92.255.108.46:8080/playlist.m3u8
 #EXTINF:-1 tvg-id="Ritsa Tv" tvg-name="Ritsa Tv" tvg-logo="http://imgfz.com/i/LqBstM9.png", Ritsa Tv | RU
 https://live.prd.dlive.tv/hls/live/fila007.m3u8
