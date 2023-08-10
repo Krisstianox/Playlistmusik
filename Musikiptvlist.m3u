@@ -223,7 +223,7 @@ https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
 #EXTINF:-1 tvg-id="462" tvg-name="Alternativa TV" tvg-logo="http://imgfz.com/i/wJmMrAT.png", Alternativa TV | CL
 https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://www.m3u.cl/logo/27_Carolina_TV.png", Carolina TV |
-https://us-b5-p-e-kj2.cdn.mdstrm.com/live-stream-dai/63a06468117f42713374addd/cc795754201b4208a7387ee8287b21cb/f624fec49dadc88894ebeff1d974eab019af7757/session/79e4a28e-edc1-4d41-bd0b-cf6625c43e5d/media.m3u8?aid=53bc2bcae41e2d9c662e1ba7&uid=xl3neOcr7WdPTpUk4LR4iJeYUp9wI6cR&sid=itng05ijcNFzcOymWVmnVgV8bB1ye8Zf&pid=DoQS2m0HO27XkBLOdG5nyrV4xGbcEtqX&ref=https%3A%2F%2Fwww.carolina.cl%2F&without_cookies=false&listenerid=&dnt=true&es=cl-v1-c-e-bb2.cdn.mdstrm.com&ote=1691740594520&ot=zuiiiT9aUyzHjKe_AIKmCA&proto=https&pz=cl
+https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?uid=xl3neOcr7WdPTpUk4LR4iJeYUp9wI6cR&sid=itng05ijcNFzcOymWVmnVgV8bB1ye8Zf&pid=DoQS2m0HO27XkBLOdG5nyrV4xGbcEtqX&an=screen&at=web-app&av=v5.2.358&ref=https%3A%2F%2Fwww.carolina.cl%2F&res=451x254&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=79e4a28e-edc1-4d41-bd0b-cf6625c43e5d
 #EXTINF:-1 tvg-name="Mundo+" tvg-logo="https://pbs.twimg.com/profile_images/959148019479470080/VIP_8lbP_400x400.jpg", MUNDO+
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-id="197193" tvg-name="OCKOEXPRES music.cz" tvg-logo="https://1gr.cz/o/ocko/logo.jpg", OCKOEXPRES Music.cz
