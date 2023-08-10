@@ -30,7 +30,9 @@ http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="http://imgfz.com/i/o1tlU2F.png", Portal FoxMix | CL
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="Radioactiva" tvg-logo="http://imgfz.com/i/cgUmvVx.png", RadioActiva | CL
+#EXTINF:-1 tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://www.m3u.cl/logo/27_Carolina_TV.png", Carolina TV |
+https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="Radioactiva TV" tvg-logo="http://imgfz.com/i/cgUmvVx.png", RadioActiva | CL
 https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/radioactivatv/livestream2/chunks.m3u8?dpssid=b222105330463b694989a4e7&sid=ba5t1l1xb248782848763b694989a4e6
 #EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="http://imgfz.com/i/xS61Jtf.png", Panavision | VE
 https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
@@ -222,8 +224,6 @@ https://vdo.mivideo.pro:3446/hybrid/play.m3u8
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
 #EXTINF:-1 tvg-id="462" tvg-name="Alternativa TV" tvg-logo="http://imgfz.com/i/wJmMrAT.png", Alternativa TV | CL
 https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://www.m3u.cl/logo/27_Carolina_TV.png", Carolina TV |
-https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
 #EXTINF:-1 tvg-name="Mundo+" tvg-logo="https://pbs.twimg.com/profile_images/959148019479470080/VIP_8lbP_400x400.jpg", MUNDO+
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-id="197193" tvg-name="OCKOEXPRES music.cz" tvg-logo="https://1gr.cz/o/ocko/logo.jpg", OCKOEXPRES Music.cz
