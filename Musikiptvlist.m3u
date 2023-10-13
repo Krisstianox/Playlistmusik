@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus" tvg-logo="http://imgfz.com/i/SHX95ZR.png", Retro Plus TV | CL
+#EXTINF:-1 tvg-id="1" tvg-name="Rewind TV" tvg-logo="http://imgfz.com/i/3JZv8hj.jpeg", Rewind TV | CL
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus 1" tvg-logo="http://imgfz.com/i/SHX95ZR.png", Retro Plus TV Señal 1 | CL
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="Retro Plus 2" tvg-logo="http://imgfz.com/i/w1KOjh0.png", Retro Plus TV Señal 2 | CL
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w857210291.m3u8
@@ -11,7 +13,7 @@ https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 http://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 tvg-name="VB Eurodance Hits 90s" tvg-logo="https://i.ibb.co/f1hWzq2/IMG-20221027-183740-941.png", VB Eurodance Hits 90s | Russia
 http://195.9.195.3:8080/hls/198097.m3u8
-#EXTINF:-1 tvg-name="Dance Floor TV" tvg-logo="https://i.ibb.co/f1hWzq2/IMG-20221027-183740-941.png", Dance Floor TV | BR
+#EXTINF:-1 tvg-name="Dance Floor TV" tvg-logo="https://share.ftimg.com/aff/flamingtext/2017/11/07/flamingtext__25333952628225573.png", Dance Floor TV | BR
 https://srv3.zcast.com.br/andre3354/andre3354/chunklist_w191391390.m3u8
 #EXTINF:-1 tvg-name="Techno Dance Music" tvg-logo="https://i.ibb.co/RzKgbpF/Techno-Dance-Music.png", Techno Dance Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (SmartHub; SMART-TV; U; Linux/SmartTV; Maple2012)
