@@ -10,7 +10,7 @@ https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/chunklist_w85322024
 #EXTINF:-1 tvg-id="8" tvg-name="V2BEAT Music TVision" tvg-logo="http://imgfz.com/i/2zR80ie.png", V2BEAT Music TVision | Italy
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 tvg-id="Eurodance 90 HD" tvg-name="Eurodance 90 HD" tvg-logo="http://imgfz.com/i/Z1UEVBw.png", Eurodance 90 HD | Russia
-https://vkvsd14.mycdn.me/hls/6015778490909.m3u8/sig/e2-3dhXO40o/srcIp/45.232.95.126/urls/45.136.20.66/expires/1711503027359/clientType/13/srcAg/CHROME/fromCache/1/mid/7781707819805/id/6015778490909/video.m3u8
+chrome-extension://gddbgllpilhpnjpkdbopahnpealaklle/m3u8.html?m3u8_url=https://vkvsd14.mycdn.me/hls/6015778490909.m3u8/sig/e2-3dhXO40o/srcIp/45.232.95.126/urls/45.136.20.66/expires/1711503027359/clientType/13/srcAg/CHROME/fromCache/1/mid/7781707819805/id/6015778490909/6015778490909_high/index.m3u8
 #EXTINF:-1 tvg-name="VB Eurodance Hits 90s" tvg-logo="https://i.ibb.co/f1hWzq2/IMG-20221027-183740-941.png", VB Eurodance Hits 90s | Russia
 http://195.9.195.3:8080/hls/198097.m3u8
 #EXTINF:-1 tvg-name="Dance Floor TV" tvg-logo="https://share.ftimg.com/aff/flamingtext/2017/11/07/flamingtext__25333952628225573.png", Dance Floor TV | BR
