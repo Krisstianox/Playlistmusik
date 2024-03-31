@@ -136,8 +136,8 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 #EXTINF:-1 tvg-id="Loop Electronica West" tvg-logo="https://static.12core.net/d8d1f2a3ea03ed135a7873ff7c0ce161.jpeg", Loop Electronica West | US
 https://0bdf3efc906045538c63468aa2f86a96.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_littlstar/master.m3u8
-#EXTINF:-1 tvg-id="Loop 90s West" tvg-logo="https://i.imgur.com/K8YV2bR.png", Loop 90s West | US
-https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/master.m3u8
+#EXTINF:-1 tvg-id="MTv 90s West" tvg-logo="https://i.imgur.com/K8YV2bR.png", MTV 90s | US
+https://vkvsd79.mycdn.me/hls/6158035716758.m3u8/sig/MxetptyU5Ew/srcIp/45.232.95.97/urls/185.226.52.86/expires/1712373726048/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/7063292291990/id/6158035716758/video.m3u8?p
 #EXTINF:-1 tvg-id="Loop Bedroom West" tvg-logo="https://static.12core.net/2a347a69ef251082e125c7b15fc721a9.jpeg", Loop Bedroom West | US
 https://3bbe22c035b4409d80f997adc8ad33ee.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_littlstar/master.m3u8
 #EXTINF:-1 tvg-id="Loop Latin West" tvg-logo="https://static.12core.net/20b46f1a2777723aaa45db27e7389a93.jpeg", Loop Latin West | US
