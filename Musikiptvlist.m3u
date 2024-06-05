@@ -28,8 +28,8 @@ https://vkvsd182.mycdn.me/hls/6225744628331.m3u8/sig/OWQmO4CvglA/srcIp/45.232.95
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="http://imgfz.com/i/o1tlU2F.png", Portal FoxMix | CL
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://www.m3u.cl/logo/27_Carolina_TV.png", Carolina TV |
-https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://www.m3u.cl/logo/27_Carolina_TV.png", Carolina TV | Chile
+https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?uid=kPj87ESczj217jXguz7g5NOW6ZYJcb65&sid=5nixrbSeLywUFBF4oDxGziBGwQoUyn21&pid=KELrFCwGAWTLMDpbEeJEfW2SEbTViemq&an=screen&at=web-app&av=v6.0.1&ref=https%3A%2F%2Fwww.carolina.cl%2F&res=500x281&without_cookies=false&listenerid=&dnt=true&adInsertionSessionId=a7bb1f68-68db-48f9-bdbc-c92585770826
 #EXTINF:-1 tvg-id="7" tvg-name="Radioactiva TV" tvg-logo="http://imgfz.com/i/cgUmvVx.png", RadioActiva | CL
 https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/radioactivatv/livestream2/chunks.m3u8?dpssid=b222105330463b694989a4e7&sid=ba5t1l1xb248782848763b694989a4e6
 #EXTINF:-1 tvg-id="924" tvg-name="Panavision" tvg-logo="http://imgfz.com/i/xS61Jtf.png", Panavision | VE
