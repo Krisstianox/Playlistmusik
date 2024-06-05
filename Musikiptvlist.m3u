@@ -40,6 +40,8 @@ https://server1.oklanet.cl:1936/difunde-la-maximafmchile/ngrp:difunde-la-maximaf
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?Playlist
 #EXTINF:-1 tvg-id="782" tvg-name="Kpop TV" tvg-logo="http://imgfz.com/i/2Xz5oYp.png", KpopTV | BR
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="Live Kpop" tvg-logo="http://imgfz.com/i/qDe62RG.png", Live Kpop
+https://live.24hrkpop.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="EDM Mainstage" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg", EDM Mainstage
 https://eu-nl-012.worldcast.tv/dancetelevisionseven/2/dancetelevisionseven.m3u8
 #EXTINF:-1 tvg-id="Deep House District" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg", Deep House District
@@ -170,8 +172,6 @@ https://live-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/chunklist_b5128
 https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF:-1 tvg-id="385" tvg-name="On Radio Chile" tvg-logo="http://imgfz.com/i/2UtihlP.png", On Radio Chile | CL
 https://tls-cl.cdnz.cl/adgm-1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="On Radio Kpop" tvg-logo="http://imgfz.com/i/qDe62RG.png", On Radio Kpop | CL
-https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="929" tvg-name="Italianissimo" tvg-logo="https://www.m3u.cl/logo/929_Italianissimo.png", Italianissimo | VE
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
 #EXTINF:-1 tvg-id="904" tvg-name="Latin Zone TV" tvg-logo="https://www.m3u.cl/logo/904_Latin_Zone_TV.png", Latin Zone TV | US
