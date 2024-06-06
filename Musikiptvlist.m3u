@@ -6,7 +6,7 @@ https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="Ibiza Global" tvg-country="IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIMD9NAZMOovMIgspNCVU0FbMe4BhgeTk8i-6VHd-raIIM6UV6k_DuMklSlTW-dI0oiqY" group-title="Music", Ibiza Global TV
 https://nodo10-cloud01.streaming-pro.com/ibgrtv/hls/ibgrlive_2.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="SpektraTV" tvg-logo="https://spektratv.com/img/logo_intro.png", SpektraTV |
-https://cloudvideo.servers10.com:2020/VideoPlayer/8136
+https://cloudvideo.servers10.com:8081/8136/index.m3u8
 #EXTINF:-1 tvg-id="CompanyTV.it" tvg-country="IT" tvg-logo="http://imgfz.com/i/V0qyUdI.png" group-title="Music", Company TV | Italy
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/chunklist_w853220240_b2128000_slita.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="V2BEAT Music TVision" tvg-logo="http://imgfz.com/i/2zR80ie.png", V2BEAT Music TVision | Italy
