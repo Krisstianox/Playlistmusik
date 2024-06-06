@@ -1,8 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="Rewind TV" tvg-logo="http://imgfz.com/i/3JZv8hj.jpeg", Rewind TV | CL
-https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w233947517.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Canela Hits" tvg-logo="http://imgfz.com/i/3JZv8hj.jpeg", CanelaHits | 70s Inolvidables setlist
+https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_8eyoah9a/v/1/ev/10/flavorId/1_ndfrkiay/name/a.mp4/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus 1" tvg-logo="http://imgfz.com/i/SHX95ZR.png", Retro Plus TV Señal 1 | CL
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:-1 tvg-id="Ibiza Global" tvg-country="IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIMD9NAZMOovMIgspNCVU0FbMe4BhgeTk8i-6VHd-raIIM6UV6k_DuMklSlTW-dI0oiqY" group-title="Music", Ibiza Global TV
+https://nodo10-cloud01.streaming-pro.com/ibgrtv/hls/ibgrlive_2.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="SpektraTV" tvg-logo="https://spektratv.com/img/logo_intro.png", SpektraTV |
+https://cloudvideo.servers10.com:2020/VideoPlayer/8136
 #EXTINF:-1 tvg-id="CompanyTV.it" tvg-country="IT" tvg-logo="http://imgfz.com/i/V0qyUdI.png" group-title="Music", Company TV | Italy
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/chunklist_w853220240_b2128000_slita.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="V2BEAT Music TVision" tvg-logo="http://imgfz.com/i/2zR80ie.png", V2BEAT Music TVision | Italy
