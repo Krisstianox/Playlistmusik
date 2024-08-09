@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="Canela Hits" tvg-logo="http://imgfz.com/i/3JZv8hj.jpeg", CanelaHits | 70s Inolvidables setlist
-
+#EXTINF:-1 tvg-id="1" tvg-name="MolaHits" tvg-logo="http://imgfz.com/i/3JZv8hj.jpeg", MolaHits | España
+https://ventdelnord.tv:8080/mola/directe.m3u8?hls_ctx=m43x06q8
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus 1" tvg-logo="http://imgfz.com/i/SHX95ZR.png", Retro Plus TV Señal 1 | CL
 https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1676240944.m3u8
 #EXTINF:-1 tvg-id="Ibiza Global" tvg-country="IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIMD9NAZMOovMIgspNCVU0FbMe4BhgeTk8i-6VHd-raIIM6UV6k_DuMklSlTW-dI0oiqY" group-title="Music", Ibiza Global TV
