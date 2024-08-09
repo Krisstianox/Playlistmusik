@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="Canela Hits" tvg-logo="http://imgfz.com/i/3JZv8hj.jpeg", CanelaHits | 70s Inolvidables setlist
-https://cfvod.kaltura.com/hls/p/2657331/sp/265733100/serveFlavor/entryId/1_8eyoah9a/v/1/ev/10/flavorId/1_ndfrkiay/name/a.mp4/index.m3u8
+
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus 1" tvg-logo="http://imgfz.com/i/SHX95ZR.png", Retro Plus TV Señal 1 | CL
 https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1676240944.m3u8
 #EXTINF:-1 tvg-id="Ibiza Global" tvg-country="IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIMD9NAZMOovMIgspNCVU0FbMe4BhgeTk8i-6VHd-raIIM6UV6k_DuMklSlTW-dI0oiqY" group-title="Music", Ibiza Global TV
 https://nodo10-cloud01.streaming-pro.com/ibgrtv/hls/ibgrlive_2.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="SpektraTV" tvg-logo="https://spektratv.com/img/logo_intro.png", SpektraTV |
-https://cloudvideo.servers10.com:8081/8136/index.m3u8
 #EXTINF:-1 tvg-id="CompanyTV.it" tvg-country="IT" tvg-logo="http://imgfz.com/i/V0qyUdI.png" group-title="Music", Company TV | Italy
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/chunklist_w853220240_b2128000_slita.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="V2BEAT Music TVision" tvg-logo="http://imgfz.com/i/2zR80ie.png", V2BEAT Music TVision | Italy
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 tvg-id="NRG91 Music" tvg-name="NRG91 Music Live" tvg-logo="http://imgfz.com/i/bDSrO6Q.png", NRG91 Music Live | Grecia
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 tvg-name="Eurodance 90 TV" tvg-logo="http://imgfz.com/i/Z1UEVBw.png", Eurodance 90 TV | Rusia
-https://vkvsd72.mycdn.me/hls/6015778490909.m3u8/sig/UCO3nYYjmHU/srcIp/45.232.95.117/urls/185.226.52.63/expires/1718082898367/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/7781707819805/id/6015778490909/video.m3u8?p
+#EXTINF:-1 tvg-name="Eurodance 90 TV" tvg-logo="http://imgfz.com/i/Z1UEVBw.png", Eurodance 90 TV | Rusiahttps://vkvsd72.mycdn.me/hls/6015778490909.m3u8/sig/UCO3nYYjmHU/srcIp/45.232.95.117/urls/185.226.52.63/expires/1718082898367/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/7781707819805/id/6015778490909/video.m3u8?p
+https://vkvsd14.mycdn.me/hls/6015778490909_2136.m3u8/sig/6dA2cif3ZQ0/srcIp/45.232.95.227/urls/45.136.20.66/expires/1723667204757/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/7781707819805/id/6015778490909/6015778490909_high/index.m3u8
 #EXTINF:-1 tvg-name="VB Eurodance Hits 90s" tvg-logo="https://i.ibb.co/f1hWzq2/IMG-20221027-183740-941.png", VB Eurodance Hits 90s | Russia
 http://195.9.195.3:8080/hls/198097.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="SpektraTV" tvg-logo="https://spektratv.com/img/logo_intro.png", SpektraTV |
+https://cloudvideo.servers10.com:8081/8136/index.m3u8
 #EXTINF:-1 tvg-name="Viva Tv" tvg-logo="https://share.ftimg.com/aff/flamingtext/2017/11/07/flamingtext__25333952628225573.png", Viva TV
 https://vk.com/video-222985249_456239209
 #EXTINF:-1 tvg-name="Techno Dance Music" tvg-logo="https://i.ibb.co/RzKgbpF/Techno-Dance-Music.png", Techno Dance Music
