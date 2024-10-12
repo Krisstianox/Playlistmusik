@@ -3,6 +3,8 @@
 https://ventdelnord.tv:8080/mola/directe.m3u8?hls_ctx=m43x06q8
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus 1" tvg-logo="http://imgfz.com/i/SHX95ZR.png", Retro Plus TV Señal 1 | CL
 https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1676240944.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus 2" tvg-logo="http://imgfz.com/i/SHX95ZR.png", Retro Plus TV Señal 2 | CL
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="Ibiza Global" tvg-country="IT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIMD9NAZMOovMIgspNCVU0FbMe4BhgeTk8i-6VHd-raIIM6UV6k_DuMklSlTW-dI0oiqY" group-title="Music", Ibiza Global TV
 https://nodo10-cloud01.streaming-pro.com/ibgrtv/hls/ibgrlive_2.m3u8
 #EXTINF:-1 tvg-id="CompanyTV.it" tvg-country="IT" tvg-logo="http://imgfz.com/i/V0qyUdI.png" group-title="Music", Company TV | Italy
