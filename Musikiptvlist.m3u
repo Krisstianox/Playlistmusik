@@ -15,6 +15,18 @@ https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-name="Eurodance 90 TV" tvg-logo="http://imgfz.com/i/Z1UEVBw.png", Eurodance TV | Rusia
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=39803&token=bb83b39a284b11b5b4b23667e26eb733&server=v2.catcast.tv
+#EXTINF:-1 tvg-id="EDM Mainstage" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg", EDM Mainstage
+https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
+#EXTINF:-1 tvg-id="Deep House District" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg", Deep House District
+https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-id="Best of Dance TV" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg",Best of Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-id="Algorhythm | Tech House" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg", MelodicTech
+https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
+#EXTINF:-1 tvg-id="Techno Warehouse" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg", Techno Warehouse
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
+#EXTINF:-1 tvg-id="The deeper side of Tech and House" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg", Tech and House
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/2/dancetelevisionfour.m3u8
 #EXTINF:-1 tvg-name="VB Eurodance Hits 90s" tvg-logo="https://i.ibb.co/f1hWzq2/IMG-20221027-183740-941.png", VB Eurodance Hits 90s | Russia
 http://195.9.195.3:8080/hls/198097.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="SpektraTV" tvg-logo="https://spektratv.com/img/logo_intro.png", SpektraTV |
@@ -48,18 +60,6 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8?Playlist
 https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="Live Kpop" tvg-logo="http://imgfz.com/i/qDe62RG.png", Live Kpop
 https://live.24hrkpop.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="EDM Mainstage" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg", EDM Mainstage
-https://mbit1.worldcast.tv/dancetelevisionseven/multibit.m3u8
-#EXTINF:-1 tvg-id="Deep House District" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg", Deep House District
-https://m1b2.worldcast.tv/dancetelevisiontwo/2/dancetelevisiontwo.m3u8
-#EXTINF:-1 tvg-id="Best of Dance TV" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg",Best of Dance TV
-https://m1b2.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 tvg-id="Algorhythm | Tech House" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg", MelodicTech
-https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
-#EXTINF:-1 tvg-id="Techno Warehouse" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg", Techno Warehouse
-https://m2b2.worldcast.tv:7443/dancetelevisionthree/2/dancetelevisionthree.m3u8
-#EXTINF:-1 tvg-id="The deeper side of Tech and House" tvg-logo="https://pbs.twimg.com/profile_images/1268129322730127364/OJlQBZpS_400x400.jpg", The deeper side of Tech and House
-https://eu-nl-012.worldcast.tv/dancetelevisionsix/2/dancetelevisionsix.m3u8
 #EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/600ad8f86e1eba00081da3ce/solidLogoPNG.png" group-title="France",Clubbing TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad8f86e1eba00081da3ce/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8ae1b0-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=97358d7c-5219-43db-bcda-c5057f0bc369
 #EXTINF:-1 tvg-id="ClubbingTV.fr" tvg-country="FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/600ad8f86e1eba00081da3ce/solidLogoPNG.png" group-title="France",Clubbing TV
