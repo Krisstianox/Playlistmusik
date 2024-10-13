@@ -13,6 +13,8 @@ https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/chunklist_w85322024
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 tvg-id="NRG91 Music" tvg-name="NRG91 Music Live" tvg-logo="http://imgfz.com/i/bDSrO6Q.png", NRG91 Music Live | Grecia
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 tvg-id="887" tvg-name="Hits 360" tvg-logo="https://www.m3u.cl/logo/887_Hits_360.png", Hits 360
+https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
 #EXTINF:-1 tvg-id="TMF" tvg-name="TMF Rus" tvg-logo="http://imgfz.com/i/bDSrO6Q.png", TMF Rus
 https://vsd118.mycdn.me/hls/4997078780457.m3u8/sig/EnpOZi-AbEU/expires/1728885683005/srcIp/45.232.95.185/urls/185.226.53.97/clientType/0/srcAg/CHROME_ANDROID/mid/6195706404393/video.m3u8?p
 #EXTINF:-1 tvg-id="THT MUSIC" tvg-name="THT MUSIC" tvg-logo="http://imgfz.com/i/bDSrO6Q.png", THT Music
@@ -222,8 +224,6 @@ https://video.streamingchilenos.cl:1936/8048/8048/playlist.m3u8
 https://5eae379fb77bb.streamlock.net/cappissima/cappissima/playlist.m3u8
 #EXTINF:-1 tvg-id="325" tvg-name="La Popular TV" tvg-logo="https://www.m3u.cl/logo/325_La_Popular_TV.png", La Popular TV | CL
 https://5eff35271151c.streamlock.net:1936/8076/8076/playlist.m3u8
-#EXTINF:-1 tvg-id="887" tvg-name="Hits 360" tvg-logo="https://www.m3u.cl/logo/887_Hits_360.png", Hits 360 | DO
-http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="1005" tvg-name="Onda Radio TV" tvg-logo="https://www.m3u.cl/logo/1005_Onda_Radio_TV.png", Onda Radio TV | CL
 https://5eff35271151c.streamlock.net:1936/8074/8074/playlist.m3u8
 #EXTINF:-1 tvg-id="785" tvg-name="Re7" tvg-logo="https://www.m3u.cl/logo/785_Re7.png", Re7 | CL
