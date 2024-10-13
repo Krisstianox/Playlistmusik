@@ -5,8 +5,6 @@ https://ventdelnord.tv:8080/mola/directe.m3u8?hls_ctx=m43x06q8
 https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1676240944.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus 2" tvg-logo="http://imgfz.com/i/w1KOjh0.png", Retro Plus TV Señal 2 | CL
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="VIVA Hits" tvg-country="IT" tvg-logo="http://imgfz.com/i/8EXvLD0.png" group-title="Music", Viva Hits
-https://vsd210.mycdn.me/hls/6366286121534.m3u8/sig/NYBQK1Ur-ds/expires/1728858210681/srcIp/45.232.95.185/urls/45.136.21.46/clientType/0/srcAg/CHROME_ANDROID/mid/6976509189694/video.m3u8?p
 #EXTINF:-1 tvg-id="CompanyTV.it" tvg-country="IT" tvg-logo="http://imgfz.com/i/V0qyUdI.png" group-title="Music", Company TV | Italy
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/chunklist_w853220240_b2128000_slita.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="V2BEAT Music TVision" tvg-logo="http://imgfz.com/i/2zR80ie.png", V2BEAT Music TVision | Italy
@@ -15,9 +13,10 @@ https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-id="887" tvg-name="Hits 360" tvg-logo="https://www.m3u.cl/logo/887_Hits_360.png", Hits 360
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
-#EXTINF:-1 tvg-id="TMF" tvg-name="TMF Rus" tvg-logo="http://imgfz.com/i/bDSrO6Q.png", TMF Rus
+#EXTINF:-1 tvg-id="TMF" tvg-name="TMF Rus" tvg-logo="https://imgfz.com/i/mKCs0c6.png", TMF Rus
 https://vsd118.mycdn.me/hls/4997078780457.m3u8/sig/EnpOZi-AbEU/expires/1728885683005/srcIp/45.232.95.185/urls/185.226.53.97/clientType/0/srcAg/CHROME_ANDROID/mid/6195706404393/video.m3u8?p
-#EXTINF:-1 tvg-id="THT MUSIC" tvg-name="THT MUSIC" tvg-logo="http://imgfz.com/i/bDSrO6Q.png", THT Music
+#EXTINF:-1 tvg-id="VIVA Hits" tvg-country="IT" tvg-logo="http://imgfz.com/i/8EXvLD0.png" group-title="Music", Viva Hits
+https://vsd210.mycdn.me/hls/6366286121534.m3u8/sig/NYBQK1Ur-ds/expires/1728858210681/srcIp/45.232.95.185/urls/45.136.21.46/clientType/0/srcAg/CHROME_ANDROID/mid/6976509189694/video.m3u8?p#EXTINF:-1 tvg-id="THT MUSIC" tvg-name="THT MUSIC" tvg-logo="http://imgfz.com/i/bDSrO6Q.png", THT Music
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-name="Eurodance 90 TV" tvg-logo="http://imgfz.com/i/Z1UEVBw.png", Eurodance TV | Rusia
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=39803&token=bb83b39a284b11b5b4b23667e26eb733&server=v2.catcast.tv
