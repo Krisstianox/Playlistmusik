@@ -26,7 +26,8 @@ https://vsd118.mycdn.me/hls/4997078780457.m3u8/sig/EnpOZi-AbEU/expires/172888568
 #EXTINF:-1 tvg-id="VIVA Tv" tvg-country="IT" tvg-logo="http://imgfz.com/i/pTsFLuI.png" group-title="Music", Viva Tv
 https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
 #EXTINF:-1 tvg-id="VIVA Hits" tvg-country="IT" tvg-logo="http://imgfz.com/i/8EXvLD0.png" group-title="Music", Viva Hits
-https://vsd210.mycdn.me/hls/6366286121534.m3u8/sig/NYBQK1Ur-ds/expires/1728858210681/srcIp/45.232.95.185/urls/45.136.21.46/clientType/0/srcAg/CHROME_ANDROID/mid/6976509189694/video.m3u8?p#EXTINF:-1 tvg-id="THT MUSIC" tvg-name="THT MUSIC" tvg-logo="http://imgfz.com/i/bDSrO6Q.png", THT Music
+https://vsd210.mycdn.me/hls/6366286121534.m3u8/sig/NYBQK1Ur-ds/expires/1728858210681/srcIp/45.232.95.185/urls/45.136.21.46/clientType/0/srcAg/CHROME_ANDROID/mid/6976509189694/video.m3u8?p
+#EXTINF:-1 tvg-id="THT MUSIC" tvg-name="THT MUSIC" tvg-logo="http://imgfz.com/i/z35bxYs.png", THT Music
 https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-name="Eurodance 90 TV" tvg-logo="https://imgfz.com/i/Z1UEVBw.png", Eurodance TV | Rusia
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=39803&token=bb83b39a284b11b5b4b23667e26eb733&server=v2.catcast.tv
