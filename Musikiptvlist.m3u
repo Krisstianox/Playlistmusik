@@ -15,7 +15,7 @@ https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-id="DJTV" tvg-name="DeeJayTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/DeeJay_TV.svg/1200px-DeeJay_TV.svg.png", DeeJay TV
 https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-#EXTINF:-1 tvg-id="887" tvg-name="Hits 360" tvg-logo="https://www.m3u.cl/logo/887_Hits_360.png", Hits 360
+#EXTINF:-1 tvg-id="885" tvg-name="Hits 360" tvg-logo="https://www.m3u.cl/logo/887_Hits_360.png", Hits 360
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
 #EXTINF:-1 tvg-id="886" tvg-name="NOW 80s" tvg-logo="https://imgfz.com/i/SlwxejU.png", NOW 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist480p.m3u8
@@ -51,15 +51,6 @@ http://195.9.195.3:8080/hls/198097.m3u8
 https://cloudvideo.servers10.com:8081/8136/index.m3u8
 #EXTINF:-1 tvg-name="Radio Max 90" tvg-logo="https://share.ftimg.com/aff/flamingtext/2017/11/07/flamingtext__25333952628225573.png", Radio Max 90 Tv | Brazil 
 https://cdn.live.br1.jmvstream.com/w/AVJ-15538/playlist/playlist.m3u8
-#EXTINF:-1 tvg-name="Techno Dance Music" tvg-logo="https://i.ibb.co/RzKgbpF/Techno-Dance-Music.png", Techno Dance Music
-https://vkvsd219.mycdn.me/hls/2340183149286.m3u8/sig/jmNdKmJvGMg/srcIp/45.232.95.97/urls/45.136.21.80/expires/1712372839623/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/4541149555686/id/2340183149286/video.m3u8?p
-https://hls.goodgame.ru/hls/180509.m3u8
-#EXTINF:-1 tvg-name="Retro 80 HD" tvg-logo="https://i.ibb.co/VpRD97X/retro-80.jpg", Retro 80 HD | Russia
-https://eurodance90.catcast.tv/content/38204/index.m3u8
-#EXTINF:-1 tvg-name="Dance Hits 80" tvg-logo="https://i.ibb.co/m5zKw3b/DH-image.png", Dance Hits 80 | Russia
-http://92.255.108.46:8080/playlist.m3u8
-#EXTINF:-1 tvg-id="Ritsa Tv" tvg-name="Ritsa Tv" tvg-logo="http://imgfz.com/i/LqBstM9.png", Ritsa Tv | RU
-https://vkvsd182.mycdn.me/hls/6225744628331.m3u8/sig/OWQmO4CvglA/srcIp/45.232.95.97/urls/185.226.52.94/expires/1712372590827/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/8203440499563/id/6225744628331/video.m3u8?p
 #EXTINF:-1 tvg-id="1166" tvg-name="Dance FM" tvg-logo="http://imgfz.com/i/kjazAoK.png", Dance FM
 https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="Portal FoxMix" tvg-logo="http://imgfz.com/i/o1tlU2F.png", Portal FoxMix | CL
@@ -1048,3 +1039,13 @@ https://stirr.ott-channels.stingray.com/naturescape/master.m3u8
 https://samsung-au.ott-channels.stingray.com/naturescape/master.m3u8
 #EXTINF:-1 tvg-id="StingrayQello.ca" tvg-country="CA" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/StingrayQello_190x190.png?raw=true" group-title="Canada",Stingray Qello (1080p)
 https://samsung.ott-channels.stingray.com/qello/master.m3u8
+
+#EXTINF:-1 tvg-name="Techno Dance Music" tvg-logo="https://i.ibb.co/RzKgbpF/Techno-Dance-Music.png", Techno Dance Music
+https://vkvsd219.mycdn.me/hls/2340183149286.m3u8/sig/jmNdKmJvGMg/srcIp/45.232.95.97/urls/45.136.21.80/expires/1712372839623/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/4541149555686/id/2340183149286/video.m3u8?p
+https://hls.goodgame.ru/hls/180509.m3u8
+#EXTINF:-1 tvg-name="Retro 80 HD" tvg-logo="https://i.ibb.co/VpRD97X/retro-80.jpg", Retro 80 HD | Russia
+https://eurodance90.catcast.tv/content/38204/index.m3u8
+#EXTINF:-1 tvg-name="Dance Hits 80" tvg-logo="https://i.ibb.co/m5zKw3b/DH-image.png", Dance Hits 80 | Russia
+http://92.255.108.46:8080/playlist.m3u8
+#EXTINF:-1 tvg-id="Ritsa Tv" tvg-name="Ritsa Tv" tvg-logo="http://imgfz.com/i/LqBstM9.png", Ritsa Tv | RU
+https://vkvsd182.mycdn.me/hls/6225744628331.m3u8/sig/OWQmO4CvglA/srcIp/45.232.95.97/urls/185.226.52.94/expires/1712372590827/clientType/13/srcAg/CHROME_ANDROID/fromCache/1/mid/8203440499563/id/6225744628331/video.m3u8?p
