@@ -13,6 +13,8 @@ https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-id="887" tvg-name="Hits 360" tvg-logo="https://www.m3u.cl/logo/887_Hits_360.png", Hits 360
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
+#EXTINF:-1 tvg-id="887" tvg-name="NOW 90s" tvg-logo="https://www.m3u.cl/logo/887_Hits_360.png", NOW 90s
+https://lightning-now90s-samsungnz.amagi.tv/playlist480p.m3u8
 #EXTINF:-1 tvg-id="TMF" tvg-name="TMF Rus" tvg-logo="https://imgfz.com/i/mKCs0c6.png", TMF Rus
 https://vsd118.mycdn.me/hls/4997078780457.m3u8/sig/EnpOZi-AbEU/expires/1728885683005/srcIp/45.232.95.185/urls/185.226.53.97/clientType/0/srcAg/CHROME_ANDROID/mid/6195706404393/video.m3u8?p
 #EXTINF:-1 tvg-id="VIVA Hits" tvg-country="IT" tvg-logo="http://imgfz.com/i/8EXvLD0.png" group-title="Music", Viva Hits
