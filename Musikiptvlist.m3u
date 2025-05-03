@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="Mola Hits" tvg-logo="http://imgfz.com/i/0UROki4.png", MolaHits Tv
-https://ventdelnord.tv:8080/mola/directe.m3u8?hls_ctx=m43x06q8
+#EXTINF:-1 tvg-id="1" tvg-name="Dj Loncho" tvg-logo="http://imgfz.com/i/0UROki4.png", Dj Loncho Tv
+https://srv5.zcast.com.br/alonso9520/alonso9520/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus 1" tvg-logo="http://imgfz.com/i/SHX95ZR.png", Retro Plus TV Señal 1
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus 2" tvg-logo="http://imgfz.com/i/w1KOjh0.png", Retro Plus TV Señal 2
