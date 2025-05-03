@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="Dj Loncho" tvg-logo="http://imgfz.com/i/0UROki4.png", Dj Loncho Tv
 https://srv5.zcast.com.br/alonso9520/alonso9520/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus 1" tvg-logo="http://imgfz.com/i/SHX95ZR.png", Retro Plus TV Señal 1
