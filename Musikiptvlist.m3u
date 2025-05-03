@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="1" tvg-name="Mola Hits" tvg-logo="http://imgfz.com/i/0UROki4.png", MolaHits Tv
 https://ventdelnord.tv:8080/mola/directe.m3u8?hls_ctx=m43x06q8
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus 1" tvg-logo="http://imgfz.com/i/SHX95ZR.png", Retro Plus TV Señal 1
-https://scl.edge.grupoz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w1676240944.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus 2" tvg-logo="http://imgfz.com/i/w1KOjh0.png", Retro Plus TV Señal 2
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?WebM3UCL
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv2/playlist.m3u8
 #EXTINF:-1 tvg-id="CompanyTV.it" tvg-country="IT" tvg-logo="http://imgfz.com/i/V0qyUdI.png" group-title="Music", Company TV | Italy
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/chunklist_w853220240_b2128000_slita.m3u8
 #EXTINF:-1 tvg-id="FMI" tvg-country="IT" tvg-logo="http://imgfz.com/i/t7eGUCv.png" group-title="Music", FMI Italia
