@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-id="1" tvg-name="Dj Loncho" tvg-logo="http://imgfz.com/i/0UROki4.png", Dj Loncho Tv
 https://srv5.zcast.com.br/alonso9520/alonso9520/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus 1" tvg-logo="http://imgfz.com/i/SHX95ZR.png", Retro Plus TV Señal 1
-https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/chunklist_w516877223.m3u8?WebM3UCL
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus 2" tvg-logo="http://imgfz.com/i/w1KOjh0.png", Retro Plus TV Señal 2
-https://ssh101.bozztv.com/ssh101/retroplustv2/playlist.m3u8?WebM3UCL
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="CompanyTV.it" tvg-country="IT" tvg-logo="http://imgfz.com/i/V0qyUdI.png" group-title="Music", Company TV | Italy
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/chunklist_w853220240_b2128000_slita.m3u8
 #EXTINF:-1 tvg-id="FMI" tvg-country="IT" tvg-logo="http://imgfz.com/i/t7eGUCv.png" group-title="Music", FMI Italia
