@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="Cadena Elite" tvg-logo="http://imgfz.com/i/0UROki4.png", Cadena Elite
 https://cloudvideo.servers10.com:8081/8004/index.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus 1" tvg-logo="http://imgfz.com/i/SHX95ZR.png", Retro Plus TV Señal 1
+#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus 1" tvg-logo="http://imgfz.com/i/rVgxjJ8.png", Retro Plus TV Señal 1
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus 2" tvg-logo="http://imgfz.com/i/w1KOjh0.png", Retro Plus TV Señal 2
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?WebM3UCL
