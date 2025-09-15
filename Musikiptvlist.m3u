@@ -13,7 +13,7 @@ https://router.xdevel.com/video0s975817-362/stream/playlist.m3u8
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 tvg-id="NRG91 Music" tvg-name="NRG91 Music Live" tvg-logo="http://imgfz.com/i/bDSrO6Q.png", NRG91 Music Live | Grecia
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 tvg-id="DJTV" tvg-name="DeeJayTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/DeeJay_TV.svg/1200px-DeeJay_TV.svg.png", DeeJay TV | Italy
+#EXTINF:-1 tvg-id="DJTV" tvg-name="DeeJayTV" tvg-logo="http://imgfz.com/i/CEp862a.png", DeeJay TV | Italy
 https://streamcdnb4-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="885" tvg-name="Hits 360" tvg-logo="https://www.m3u.cl/logo/887_Hits_360.png", Hits 360
 https://cdn.essastream.com:3023/live/hits360tvlive.m3u8
